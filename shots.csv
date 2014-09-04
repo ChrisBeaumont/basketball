@@ -1,0 +1,2757 @@
+player,game_id,is_home,margin,period,shot_made,shot_type,x,y
+Tim Duncan,0,1,-1,1,0,Jump Shot,92,184
+Tim Duncan,0,1,0,1,0,Jump Shot,-198,40
+Tim Duncan,0,1,0,1,0,Layup,1,53
+Tim Duncan,0,1,5,1,0,Jump Shot,-108,206
+Tim Duncan,0,1,-17,2,1,Layup,15,50
+Tim Duncan,0,1,-21,3,0,Jump Shot,91,190
+Tim Duncan,1,0,0,1,0,Jump Shot,-175,143
+Tim Duncan,1,0,0,1,1,Jump Shot,-127,203
+Tim Duncan,1,0,0,1,1,Jump Shot,-105,225
+Tim Duncan,1,0,2,1,1,Layup,10,45
+Tim Duncan,1,0,2,1,0,Jump Shot,-27,266
+Tim Duncan,1,0,0,1,0,Jump Shot,-108,214
+Tim Duncan,1,0,0,1,0,Jump Shot,12,253
+Tim Duncan,1,0,-3,2,0,Hook,17,50
+Tim Duncan,1,0,-3,2,1,Special Jump Shot,-10,89
+Tim Duncan,1,0,-4,2,1,Jump Shot,-139,152
+Tim Duncan,1,0,-6,2,0,Jump Shot,-147,72
+Tim Duncan,1,0,-9,2,0,Jump Shot,-4,269
+Tim Duncan,1,0,-9,3,1,Dunk,1,45
+Tim Duncan,1,0,-7,3,1,Jump Shot,187,165
+Tim Duncan,1,0,-9,3,1,Layup,12,54
+Tim Duncan,1,0,-8,3,0,Special Jump Shot,-179,165
+Tim Duncan,1,0,-10,3,0,Jump Shot,77,228
+Tim Duncan,1,0,-9,3,1,Tip,-3,45
+Tim Duncan,1,0,-7,4,1,Hook,28,72
+Tim Duncan,1,0,-7,4,1,Tip,1,56
+Tim Duncan,1,0,-4,4,1,Hook,37,73
+Tim Duncan,1,0,-7,4,0,Jump Shot,6,296
+Tim Duncan,2,0,2,1,1,Jump Shot,50,188
+Tim Duncan,2,0,-1,1,0,Jump Shot,-10,114
+Tim Duncan,2,0,-4,1,0,Jump Shot,-24,220
+Tim Duncan,2,0,-6,1,0,Jump Shot,37,78
+Tim Duncan,2,0,-5,1,0,Jump Shot,89,215
+Tim Duncan,2,0,-1,1,1,Layup,-23,47
+Tim Duncan,2,0,1,1,1,Jump Shot,-111,190
+Tim Duncan,2,0,-4,2,0,Jump Shot,-127,198
+Tim Duncan,2,0,-10,2,1,Jump Shot,-43,89
+Tim Duncan,2,0,-10,2,0,Jump Shot,-43,201
+Tim Duncan,2,0,-8,2,0,Jump Shot,-150,106
+Tim Duncan,2,0,-5,3,1,Jump Shot,88,206
+Tim Duncan,2,0,6,4,0,Jump Shot,116,195
+Tim Duncan,2,0,10,4,1,Tip,-4,59
+Tim Duncan,2,0,11,4,1,Jump Shot,72,100
+Tim Duncan,3,1,-2,1,1,Jump Shot,154,94
+Tim Duncan,3,1,-3,1,1,Special Jump Shot,-93,54
+Tim Duncan,3,1,7,2,1,Jump Shot,-27,80
+Tim Duncan,3,1,5,2,1,Layup,9,67
+Tim Duncan,3,1,3,2,1,Layup,-27,47
+Tim Duncan,3,1,2,2,0,Layup,21,54
+Tim Duncan,3,1,0,3,1,Jump Shot,-59,94
+Tim Duncan,3,1,0,3,0,Jump Shot,-7,106
+Tim Duncan,3,1,-4,3,1,Jump Shot,70,160
+Tim Duncan,3,1,-3,4,0,Special Jump Shot,-59,94
+Tim Duncan,3,1,1,4,0,Jump Shot,-67,185
+Tim Duncan,4,1,-2,1,1,Layup,-8,65
+Tim Duncan,4,1,-5,1,1,Dunk,-5,54
+Tim Duncan,4,1,-3,1,0,Jump Shot,-13,248
+Tim Duncan,4,1,-5,1,0,Jump Shot,-138,81
+Tim Duncan,4,1,-7,1,1,Jump Shot,-24,237
+Tim Duncan,4,1,-7,3,0,Jump Shot,-24,80
+Tim Duncan,4,1,-6,3,0,Layup,18,54
+Tim Duncan,4,1,-8,3,0,Jump Shot,102,199
+Tim Duncan,4,1,-4,4,0,Jump Shot,-27,251
+Tim Duncan,4,1,-2,4,0,Jump Shot,-38,206
+Tim Duncan,5,0,14,1,0,Jump Shot,7,119
+Tim Duncan,5,0,24,2,1,Special Jump Shot,28,92
+Tim Duncan,5,0,24,2,0,Special Jump Shot,-92,59
+Tim Duncan,5,0,23,3,0,Jump Shot,81,100
+Tim Duncan,6,1,-5,1,0,Jump Shot,-4,242
+Tim Duncan,6,1,-11,1,0,Jump Shot,-10,226
+Tim Duncan,6,1,-9,1,0,Jump Shot,48,111
+Tim Duncan,6,1,-10,1,1,Jump Shot,-73,86
+Tim Duncan,6,1,-10,1,0,Jump Shot,-13,162
+Tim Duncan,6,1,-15,2,0,Special Jump Shot,-123,73
+Tim Duncan,6,1,-10,3,0,Jump Shot,37,108
+Tim Duncan,6,1,-8,3,0,Jump Shot,51,80
+Tim Duncan,6,1,-7,3,0,Jump Shot,-114,78
+Tim Duncan,6,1,-5,3,0,Jump Shot,127,201
+Tim Duncan,7,0,0,1,0,Jump Shot,48,152
+Tim Duncan,7,0,-2,1,0,Jump Shot,-7,133
+Tim Duncan,7,0,-1,1,1,Jump Shot,-114,210
+Tim Duncan,7,0,-7,2,1,Hook,-32,97
+Tim Duncan,7,0,-3,2,0,Jump Shot,29,91
+Tim Duncan,7,0,-5,2,1,Jump Shot,28,69
+Tim Duncan,7,0,-7,2,0,Jump Shot,-64,210
+Tim Duncan,7,0,-5,2,1,Layup,-11,64
+Tim Duncan,7,0,-5,3,1,Jump Shot,88,207
+Tim Duncan,7,0,-7,3,1,Hook,45,97
+Tim Duncan,7,0,-7,3,0,Jump Shot,-67,237
+Tim Duncan,7,0,-4,4,0,Layup,6,65
+Tim Duncan,7,0,3,4,1,Hook,6,81
+Tim Duncan,7,0,5,4,0,Jump Shot,-100,206
+Tim Duncan,8,1,-2,1,1,Dunk,7,50
+Tim Duncan,8,1,-4,1,1,Layup,21,45
+Tim Duncan,8,1,-2,1,0,Jump Shot,102,201
+Tim Duncan,8,1,-2,1,0,Jump Shot,80,72
+Tim Duncan,8,1,-2,1,0,Jump Shot,108,198
+Tim Duncan,8,1,2,1,0,Jump Shot,-106,196
+Tim Duncan,8,1,-2,1,1,Layup,-4,50
+Tim Duncan,8,1,-2,2,0,Jump Shot,-79,76
+Tim Duncan,8,1,1,2,0,Layup,26,47
+Tim Duncan,8,1,1,2,0,Layup,-18,64
+Tim Duncan,8,1,-6,3,0,Layup,-23,67
+Tim Duncan,8,1,-14,4,0,Jump Shot,1,89
+Tim Duncan,9,0,-2,1,0,Layup,-18,47
+Tim Duncan,9,0,0,1,0,Jump Shot,-101,169
+Tim Duncan,9,0,2,1,1,Layup,28,47
+Tim Duncan,9,0,11,3,1,Layup,18,57
+Tim Duncan,9,0,10,3,0,Jump Shot,-4,231
+Tim Duncan,9,0,3,4,0,Special Jump Shot,69,62
+Tim Duncan,9,0,3,4,0,Jump Shot,-92,206
+Tim Duncan,9,0,9,4,1,Jump Shot,73,201
+Tim Duncan,10,1,-7,1,1,Jump Shot,-146,125
+Tim Duncan,10,1,-16,2,1,Jump Shot,-49,76
+Tim Duncan,10,1,-25,2,1,Jump Shot,-112,199
+Tim Duncan,10,1,-35,3,1,Dunk,9,73
+Tim Duncan,11,1,0,1,0,Jump Shot,-71,97
+Tim Duncan,11,1,-2,1,1,Jump Shot,45,72
+Tim Duncan,11,1,-15,2,0,Jump Shot,-57,207
+Tim Duncan,11,1,-19,2,1,Jump Shot,-64,59
+Tim Duncan,11,1,-23,3,1,Jump Shot,-127,65
+Tim Duncan,11,1,-22,3,0,Special Jump Shot,40,54
+Tim Duncan,11,1,-22,3,1,Special Jump Shot,13,81
+Tim Duncan,12,0,0,1,0,Layup,26,56
+Tim Duncan,12,0,0,1,1,Layup,-23,50
+Tim Duncan,12,0,0,1,0,Special Jump Shot,-98,57
+Tim Duncan,12,0,2,1,1,Jump Shot,-13,182
+Tim Duncan,12,0,2,2,0,Layup,12,65
+Tim Duncan,12,0,3,2,1,Layup,6,67
+Tim Duncan,12,0,3,3,0,Jump Shot,1,236
+Tim Duncan,12,0,3,3,1,Special Jump Shot,-95,50
+Tim Duncan,12,0,1,3,0,Jump Shot,-18,250
+Tim Duncan,12,0,-5,3,0,Layup,26,45
+Tim Duncan,12,0,-6,4,0,Tip,15,48
+Tim Duncan,12,0,-7,4,1,Jump Shot,152,108
+Tim Duncan,13,0,2,1,1,Jump Shot,2,223
+Tim Duncan,13,0,2,1,1,Layup,10,65
+Tim Duncan,13,0,-1,1,1,Jump Shot,21,83
+Tim Duncan,13,0,1,1,1,Jump Shot,91,201
+Tim Duncan,13,0,-6,1,0,Jump Shot,42,157
+Tim Duncan,13,0,8,2,1,Jump Shot,-108,92
+Tim Duncan,13,0,10,2,1,Jump Shot,-57,223
+Tim Duncan,13,0,14,2,1,Alleyoop,-5,53
+Tim Duncan,13,0,19,2,1,Layup,-4,76
+Tim Duncan,13,0,18,2,0,Jump Shot,-38,139
+Tim Duncan,13,0,18,3,0,Jump Shot,4,251
+Tim Duncan,13,0,15,3,0,Jump Shot,-114,113
+Tim Duncan,13,0,14,3,0,Hook,77,106
+Tim Duncan,14,1,-2,1,1,Jump Shot,-153,57
+Tim Duncan,14,1,-1,1,1,Jump Shot,124,176
+Tim Duncan,14,1,-1,1,0,Jump Shot,-144,98
+Tim Duncan,14,1,-1,1,0,Jump Shot,-131,81
+Tim Duncan,14,1,3,1,0,Jump Shot,-95,207
+Tim Duncan,14,1,11,2,1,Jump Shot,-68,214
+Tim Duncan,14,1,15,3,1,Hook,-32,72
+Tim Duncan,14,1,12,3,1,Alleyoop,7,73
+Tim Duncan,14,1,10,3,1,Layup,-13,51
+Tim Duncan,14,1,-1,4,0,Jump Shot,6,102
+Tim Duncan,14,1,0,4,1,Layup,-13,69
+Tim Duncan,14,1,-1,4,1,Layup,-2,62
+Tim Duncan,14,1,6,4,0,Jump Shot,-57,294
+Tim Duncan,15,1,0,1,0,Jump Shot,91,45
+Tim Duncan,15,1,1,1,1,Hook,-11,105
+Tim Duncan,15,1,1,1,1,Layup,6,62
+Tim Duncan,15,1,-2,2,1,Jump Shot,-93,199
+Tim Duncan,15,1,-2,2,1,Special Jump Shot,-21,95
+Tim Duncan,15,1,3,2,0,Layup,-5,61
+Tim Duncan,15,1,3,2,0,Jump Shot,75,61
+Tim Duncan,15,1,-1,2,1,Jump Shot,-43,86
+Tim Duncan,15,1,-1,3,1,Layup,7,62
+Tim Duncan,15,1,2,3,1,Layup,2,64
+Tim Duncan,15,1,4,3,0,Layup,-16,53
+Tim Duncan,15,1,-4,4,0,Jump Shot,102,65
+Tim Duncan,15,1,-8,4,1,Layup,-2,56
+Tim Duncan,15,1,-2,4,1,Layup,-5,72
+Tim Duncan,15,1,-2,4,1,Jump Shot,106,168
+Tim Duncan,16,1,0,1,0,Hook,-35,94
+Tim Duncan,16,1,-2,1,1,Jump Shot,125,193
+Tim Duncan,16,1,0,1,0,Layup,23,50
+Tim Duncan,16,1,-2,1,1,Tip,0,67
+Tim Duncan,16,1,2,1,0,Jump Shot,-108,190
+Tim Duncan,16,1,-3,1,0,Special Jump Shot,-122,114
+Tim Duncan,16,1,-4,1,1,Layup,0,57
+Tim Duncan,16,1,2,2,0,Layup,21,44
+Tim Duncan,16,1,14,3,0,Jump Shot,-122,195
+Tim Duncan,16,1,17,3,0,Tip,6,54
+Tim Duncan,17,0,0,1,0,Jump Shot,15,192
+Tim Duncan,17,0,-2,1,0,Hook,70,67
+Tim Duncan,17,0,-4,1,0,Jump Shot,-108,192
+Tim Duncan,17,0,-2,1,1,Jump Shot,72,242
+Tim Duncan,17,0,-4,1,0,Jump Shot,95,192
+Tim Duncan,17,0,-5,1,1,Hook,-41,57
+Tim Duncan,17,0,0,2,0,Hook,-48,125
+Tim Duncan,17,0,10,3,1,Tip,11,49
+Tim Duncan,17,0,9,3,1,Jump Shot,-32,212
+Tim Duncan,17,0,9,3,1,Layup,-4,75
+Tim Duncan,17,0,9,3,1,Dunk,12,56
+Tim Duncan,18,0,2,1,1,Jump Shot,37,236
+Tim Duncan,18,0,7,1,1,Jump Shot,-136,158
+Tim Duncan,18,0,7,1,0,Jump Shot,-153,151
+Tim Duncan,18,0,13,1,0,Jump Shot,-139,163
+Tim Duncan,18,0,11,1,1,Layup,-8,51
+Tim Duncan,18,0,13,1,1,Jump Shot,-139,70
+Tim Duncan,18,0,17,1,1,Tip,-2,50
+Tim Duncan,18,0,17,1,1,Jump Shot,-26,228
+Tim Duncan,18,0,23,2,1,Layup,-13,50
+Tim Duncan,18,0,22,3,0,Jump Shot,-108,198
+Tim Duncan,18,0,26,3,1,Layup,-5,57
+Tim Duncan,18,0,31,3,1,Jump Shot,-122,181
+Tim Duncan,19,1,-1,1,0,Jump Shot,-54,242
+Tim Duncan,19,1,-1,1,1,Layup,-7,53
+Tim Duncan,19,1,-4,1,0,Special Jump Shot,-78,56
+Tim Duncan,19,1,1,1,0,Jump Shot,144,124
+Tim Duncan,19,1,-1,1,0,Jump Shot,-7,190
+Tim Duncan,19,1,0,1,1,Jump Shot,105,199
+Tim Duncan,19,1,0,2,1,Layup,-7,65
+Tim Duncan,19,1,-7,2,1,Layup,1,59
+Tim Duncan,19,1,-8,3,0,Jump Shot,-11,239
+Tim Duncan,19,1,-1,4,0,Tip,-5,67
+Tim Duncan,19,1,-1,4,1,Layup,-2,48
+Tim Duncan,20,0,0,1,0,Jump Shot,-164,139
+Tim Duncan,20,0,0,1,0,Hook,1,125
+Tim Duncan,20,0,-4,1,1,Jump Shot,-82,233
+Tim Duncan,20,0,-4,1,0,Jump Shot,-75,226
+Tim Duncan,20,0,-2,1,0,Jump Shot,-68,220
+Tim Duncan,20,0,4,1,1,Jump Shot,42,237
+Tim Duncan,20,0,-1,1,0,Jump Shot,64,209
+Tim Duncan,20,0,19,2,1,Dunk,9,51
+Tim Duncan,20,0,19,2,1,Tip,4,69
+Tim Duncan,20,0,19,2,0,Tip,9,73
+Tim Duncan,20,0,17,2,1,Special Jump Shot,-65,89
+Tim Duncan,20,0,11,3,1,Special Jump Shot,88,89
+Tim Duncan,20,0,16,3,1,Layup,15,56
+Tim Duncan,20,0,16,3,1,Layup,26,57
+Tim Duncan,20,0,16,4,1,Special Jump Shot,-147,121
+Tim Duncan,21,0,-1,1,0,Jump Shot,-78,215
+Tim Duncan,21,0,-1,1,1,Dunk,13,50
+Tim Duncan,21,0,-2,1,0,Jump Shot,111,193
+Tim Duncan,21,0,7,1,1,Tip,-8,48
+Tim Duncan,21,0,6,1,1,Layup,26,42
+Tim Duncan,21,0,8,1,1,Layup,0,54
+Tim Duncan,21,0,-3,2,0,Dunk,21,40
+Tim Duncan,21,0,-8,2,1,Layup,-10,47
+Tim Duncan,21,0,-8,2,0,Hook,34,48
+Tim Duncan,21,0,-8,2,0,Jump Shot,-2,114
+Tim Duncan,21,0,-1,3,0,Jump Shot,-117,111
+Tim Duncan,21,0,-1,3,0,Layup,-15,51
+Tim Duncan,22,0,-3,1,1,Layup,6,59
+Tim Duncan,22,0,-8,1,0,Jump Shot,-43,138
+Tim Duncan,22,0,-8,1,0,Layup,15,62
+Tim Duncan,22,0,-8,1,0,Tip,-16,61
+Tim Duncan,22,0,-1,2,1,Jump Shot,-125,210
+Tim Duncan,22,0,3,2,1,Layup,0,70
+Tim Duncan,22,0,5,3,1,Special Jump Shot,37,176
+Tim Duncan,22,0,2,3,0,Jump Shot,-87,192
+Tim Duncan,22,0,2,3,1,Jump Shot,86,87
+Tim Duncan,22,0,0,4,0,Layup,2,62
+Tim Duncan,22,0,9,4,1,Layup,7,61
+Tim Duncan,23,1,-3,1,1,Layup,0,64
+Tim Duncan,23,1,-3,1,0,Jump Shot,-93,207
+Tim Duncan,23,1,-3,1,1,Layup,-15,65
+Tim Duncan,23,1,-2,1,0,Jump Shot,23,117
+Tim Duncan,23,1,5,2,1,Dunk,7,57
+Tim Duncan,23,1,9,3,0,Layup,1,73
+Tim Duncan,23,1,9,3,1,Jump Shot,58,73
+Tim Duncan,23,1,7,3,0,Jump Shot,24,95
+Tim Duncan,23,1,8,3,0,Layup,4,76
+Tim Duncan,23,1,9,3,1,Jump Shot,-123,190
+Tim Duncan,23,1,11,3,0,Jump Shot,91,97
+Tim Duncan,23,1,7,3,1,Dunk,1,54
+Tim Duncan,23,1,10,4,0,Layup,0,54
+Tim Duncan,23,1,8,4,1,Layup,-19,62
+Tim Duncan,24,1,2,1,0,Layup,4,69
+Tim Duncan,24,1,-4,1,0,Jump Shot,31,54
+Tim Duncan,24,1,-3,1,0,Jump Shot,56,94
+Tim Duncan,24,1,-3,1,1,Jump Shot,-41,51
+Tim Duncan,24,1,-5,1,1,Layup,-21,51
+Tim Duncan,24,1,-5,2,0,Jump Shot,13,231
+Tim Duncan,24,1,-6,2,0,Jump Shot,-24,233
+Tim Duncan,24,1,-5,3,1,Tip,18,54
+Tim Duncan,24,1,-6,3,1,Layup,20,53
+Tim Duncan,24,1,-8,3,0,Jump Shot,86,39
+Tim Duncan,24,1,-5,3,0,Special Jump Shot,88,40
+Tim Duncan,24,1,-10,4,0,Jump Shot,-79,220
+Tim Duncan,24,1,-10,4,0,Jump Shot,-32,45
+Tim Duncan,25,1,6,1,0,Jump Shot,-147,84
+Tim Duncan,25,1,15,1,0,Jump Shot,72,209
+Tim Duncan,25,1,16,1,1,Tip,-7,45
+Tim Duncan,25,1,10,2,1,Dunk,-7,62
+Tim Duncan,25,1,12,2,0,Jump Shot,6,108
+Tim Duncan,25,1,6,2,1,Jump Shot,24,244
+Tim Duncan,25,1,9,2,0,Layup,-19,42
+Tim Duncan,25,1,11,3,0,Layup,1,64
+Tim Duncan,25,1,7,3,0,Jump Shot,-54,203
+Tim Duncan,25,1,5,4,1,Layup,7,54
+Tim Duncan,25,1,10,4,0,Jump Shot,-43,152
+Tim Duncan,26,0,-2,1,1,Jump Shot,94,193
+Tim Duncan,26,0,0,1,1,Layup,2,53
+Tim Duncan,26,0,0,1,0,Jump Shot,10,237
+Tim Duncan,26,0,-2,1,0,Hook,72,67
+Tim Duncan,26,0,8,2,0,Layup,-13,47
+Tim Duncan,26,0,10,2,1,Layup,-10,57
+Tim Duncan,26,0,10,2,1,Tip,20,50
+Tim Duncan,26,0,8,2,0,Jump Shot,-87,212
+Tim Duncan,26,0,7,2,0,Jump Shot,-59,64
+Tim Duncan,26,0,4,3,1,Layup,20,53
+Tim Duncan,26,0,9,3,0,Special Jump Shot,81,97
+Tim Duncan,26,0,5,3,0,Jump Shot,140,98
+Tim Duncan,26,0,11,4,0,Hook,43,59
+Tim Duncan,26,0,5,4,1,Layup,24,53
+Tim Duncan,26,0,5,4,1,Layup,4,59
+Tim Duncan,27,1,0,1,0,Jump Shot,88,182
+Tim Duncan,27,1,-1,1,1,Special Jump Shot,-122,80
+Tim Duncan,27,1,-1,1,1,Layup,-8,50
+Tim Duncan,27,1,-3,1,1,Layup,12,44
+Tim Duncan,27,1,-5,1,0,Jump Shot,143,89
+Tim Duncan,27,1,-12,2,0,Jump Shot,91,62
+Tim Duncan,27,1,-12,2,1,Alleyoop,-2,50
+Tim Duncan,27,1,-9,2,0,Jump Shot,-139,184
+Tim Duncan,27,1,-8,2,0,Layup,9,45
+Tim Duncan,27,1,-10,3,1,Jump Shot,-19,193
+Tim Duncan,27,1,-8,3,0,Jump Shot,-108,177
+Tim Duncan,27,1,-8,3,1,Layup,0,72
+Tim Duncan,27,1,0,3,0,Jump Shot,39,225
+Tim Duncan,27,1,2,4,1,Jump Shot,-70,89
+Tim Duncan,27,1,-2,4,1,Hook,62,76
+Tim Duncan,27,1,-3,4,0,Jump Shot,39,226
+Tim Duncan,28,1,1,1,0,Jump Shot,-111,133
+Tim Duncan,28,1,-7,1,1,Special Jump Shot,-98,72
+Tim Duncan,28,1,-10,1,1,Jump Shot,-38,226
+Tim Duncan,28,1,-14,1,1,Jump Shot,-52,234
+Tim Duncan,28,1,-21,2,0,Jump Shot,-100,193
+Tim Duncan,28,1,-24,3,0,Jump Shot,48,51
+Tim Duncan,28,1,-23,3,0,Layup,15,50
+Tim Duncan,28,1,-25,3,1,Tip,-15,50
+Tim Duncan,28,1,-25,3,1,Special Jump Shot,39,98
+Tim Duncan,28,1,-26,3,1,Dunk,4,40
+Tim Duncan,28,1,-26,3,1,Jump Shot,-78,173
+Tim Duncan,29,1,-3,1,0,Jump Shot,-123,193
+Tim Duncan,29,1,0,1,0,Jump Shot,-179,34
+Tim Duncan,29,1,4,1,1,Layup,-13,67
+Tim Duncan,29,1,-1,2,1,Layup,-16,44
+Tim Duncan,29,1,9,3,0,Jump Shot,86,42
+Tim Duncan,29,1,6,4,0,Layup,20,65
+Tim Duncan,29,1,-2,4,1,Layup,21,42
+Tim Duncan,30,1,-2,1,1,Special Jump Shot,36,81
+Tim Duncan,30,1,-2,1,0,Jump Shot,0,199
+Tim Duncan,30,1,-2,1,0,Jump Shot,149,86
+Tim Duncan,30,1,-7,1,1,Jump Shot,20,105
+Tim Duncan,30,1,-16,1,1,Jump Shot,56,154
+Tim Duncan,30,1,-22,2,0,Jump Shot,69,190
+Tim Duncan,30,1,-29,2,0,Layup,-19,59
+Tim Duncan,30,1,-31,2,1,Layup,1,54
+Tim Duncan,30,1,-31,2,0,Layup,4,59
+Tim Duncan,30,1,-33,2,1,Dunk,0,54
+Tim Duncan,30,1,-33,2,0,Special Jump Shot,-27,114
+Tim Duncan,30,1,-37,3,1,Jump Shot,78,67
+Tim Duncan,30,1,-35,3,0,Special Jump Shot,59,106
+Tim Duncan,30,1,-31,3,0,Jump Shot,-89,69
+Tim Duncan,30,1,-22,3,1,Jump Shot,-84,199
+Tim Duncan,30,1,-15,4,1,Jump Shot,36,108
+Tim Duncan,30,1,-18,4,1,Jump Shot,94,199
+Tim Duncan,30,1,-21,4,0,Jump Shot,-129,213
+Tim Duncan,31,0,2,1,1,Jump Shot,54,223
+Tim Duncan,31,0,4,1,1,Jump Shot,37,234
+Tim Duncan,31,0,6,1,0,Jump Shot,36,236
+Tim Duncan,31,0,14,2,1,Special Jump Shot,61,158
+Tim Duncan,31,0,14,2,1,Layup,18,64
+Tim Duncan,31,0,11,2,1,Jump Shot,67,65
+Tim Duncan,31,0,14,3,1,Jump Shot,-95,187
+Tim Duncan,31,0,13,3,0,Jump Shot,143,147
+Tim Duncan,31,0,11,3,0,Jump Shot,75,240
+Tim Duncan,31,0,11,3,1,Layup,0,51
+Tim Duncan,31,0,9,3,0,Jump Shot,-48,225
+Tim Duncan,31,0,5,3,0,Special Jump Shot,-86,50
+Tim Duncan,31,0,15,4,0,Jump Shot,31,57
+Tim Duncan,31,0,11,4,1,Jump Shot,65,84
+Tim Duncan,31,0,2,5,1,Jump Shot,102,53
+Tim Duncan,32,1,-2,1,1,Special Jump Shot,-54,73
+Tim Duncan,32,1,-2,1,0,Jump Shot,80,231
+Tim Duncan,32,1,-9,2,1,Tip,4,61
+Tim Duncan,32,1,-7,2,0,Jump Shot,-75,83
+Tim Duncan,32,1,-10,2,1,Jump Shot,-116,193
+Tim Duncan,32,1,-11,3,1,Jump Shot,-71,228
+Tim Duncan,32,1,-10,3,1,Dunk,0,62
+Tim Duncan,32,1,-10,3,0,Jump Shot,18,210
+Tim Duncan,33,1,-4,1,1,Layup,6,56
+Tim Duncan,33,1,0,1,0,Special Jump Shot,-133,80
+Tim Duncan,33,1,-3,2,0,Jump Shot,-92,225
+Tim Duncan,33,1,-3,3,1,Jump Shot,-130,91
+Tim Duncan,33,1,-5,3,1,Jump Shot,108,192
+Tim Duncan,33,1,-8,3,1,Jump Shot,-23,176
+Tim Duncan,33,1,-8,3,1,Layup,20,47
+Tim Duncan,33,1,-6,3,0,Jump Shot,-92,53
+Tim Duncan,33,1,-14,4,0,Layup,-8,45
+Tim Duncan,34,0,0,1,0,Jump Shot,-172,50
+Tim Duncan,34,0,-2,1,1,Layup,-15,56
+Tim Duncan,34,0,-1,1,0,Jump Shot,-75,226
+Tim Duncan,34,0,-4,2,1,Layup,17,54
+Tim Duncan,34,0,-3,2,0,Hook,-60,91
+Tim Duncan,34,0,-1,3,1,Tip,-18,65
+Tim Duncan,34,0,-8,3,1,Layup,-10,59
+Tim Duncan,34,0,-6,3,1,Hook,6,95
+Tim Duncan,34,0,-4,3,1,Tip,10,64
+Tim Duncan,34,0,-6,3,0,Jump Shot,-43,217
+Tim Duncan,34,0,-2,3,1,Layup,26,48
+Tim Duncan,34,0,-1,3,0,Jump Shot,-89,223
+Tim Duncan,34,0,1,4,0,Layup,1,64
+Tim Duncan,35,1,-4,1,0,Jump Shot,-43,217
+Tim Duncan,35,1,0,2,1,Jump Shot,80,207
+Tim Duncan,35,1,-1,2,1,Alleyoop,17,54
+Tim Duncan,35,1,-3,2,1,Jump Shot,70,102
+Tim Duncan,35,1,-5,3,1,Jump Shot,-114,110
+Tim Duncan,35,1,-9,3,1,Jump Shot,-37,103
+Tim Duncan,35,1,-12,3,1,Jump Shot,-78,204
+Tim Duncan,35,1,-18,3,1,Layup,10,73
+Tim Duncan,36,1,-2,1,1,Jump Shot,-139,127
+Tim Duncan,36,1,-2,1,0,Layup,-19,57
+Tim Duncan,36,1,-4,1,1,Layup,2,54
+Tim Duncan,36,1,-4,1,0,Jump Shot,-128,177
+Tim Duncan,36,1,4,2,0,Jump Shot,-109,198
+Tim Duncan,36,1,4,2,1,Jump Shot,-84,97
+Tim Duncan,36,1,7,2,0,Layup,0,76
+Tim Duncan,36,1,6,3,0,Jump Shot,-116,193
+Tim Duncan,36,1,8,3,0,Layup,-4,64
+Tim Duncan,36,1,10,3,1,Special Jump Shot,6,121
+Tim Duncan,36,1,8,3,0,Layup,-7,64
+Tim Duncan,36,1,-3,4,0,Special Jump Shot,-70,106
+Tim Duncan,36,1,-1,4,0,Jump Shot,105,214
+Tim Duncan,36,1,-1,4,1,Tip,4,56
+Tim Duncan,36,1,4,4,0,Jump Shot,99,220
+Tim Duncan,36,1,7,4,1,Layup,15,53
+Tim Duncan,37,1,1,1,1,Jump Shot,-76,223
+Tim Duncan,37,1,0,1,0,Layup,-24,67
+Tim Duncan,37,1,-14,2,1,Hook,18,97
+Tim Duncan,37,1,-14,2,1,Jump Shot,-82,53
+Tim Duncan,37,1,-13,2,0,Jump Shot,-95,222
+Tim Duncan,37,1,-15,2,1,Special Jump Shot,-45,110
+Tim Duncan,37,1,-21,3,0,Jump Shot,-97,198
+Tim Duncan,38,1,3,1,1,Jump Shot,-100,236
+Tim Duncan,38,1,5,1,0,Jump Shot,-95,206
+Tim Duncan,38,1,8,1,1,Layup,1,51
+Tim Duncan,38,1,6,1,1,Jump Shot,-73,53
+Tim Duncan,38,1,3,2,0,Jump Shot,-119,59
+Tim Duncan,38,1,-2,2,0,Jump Shot,56,67
+Tim Duncan,38,1,0,3,1,Hook,81,65
+Tim Duncan,38,1,-2,3,1,Jump Shot,-56,92
+Tim Duncan,38,1,-4,3,1,Jump Shot,59,239
+Tim Duncan,38,1,6,4,0,Jump Shot,198,50
+Tim Duncan,39,0,2,1,1,Jump Shot,-52,244
+Tim Duncan,39,0,4,1,1,Jump Shot,135,195
+Tim Duncan,39,0,4,1,0,Jump Shot,-38,234
+Tim Duncan,39,0,4,1,1,Jump Shot,67,223
+Tim Duncan,39,0,3,1,1,Layup,20,57
+Tim Duncan,39,0,3,1,0,Special Jump Shot,32,59
+Tim Duncan,39,0,19,2,1,Jump Shot,-26,206
+Tim Duncan,39,0,19,2,1,Tip,4,50
+Tim Duncan,39,0,18,2,0,Layup,4,54
+Tim Duncan,39,0,25,3,1,Jump Shot,48,242
+Tim Duncan,39,0,21,3,0,Special Jump Shot,102,114
+Tim Duncan,39,0,23,3,0,Tip,-4,50
+Tim Duncan,39,0,21,3,0,Jump Shot,-56,233
+Tim Duncan,40,0,-2,1,1,Jump Shot,1,247
+Tim Duncan,40,0,-6,1,0,Jump Shot,-54,300
+Tim Duncan,40,0,-4,1,1,Jump Shot,73,106
+Tim Duncan,40,0,-4,1,1,Layup,15,53
+Tim Duncan,40,0,-2,2,1,Jump Shot,-78,62
+Tim Duncan,40,0,-2,2,0,Jump Shot,34,61
+Tim Duncan,40,0,-5,2,1,Jump Shot,-81,218
+Tim Duncan,40,0,-3,2,1,Hook,6,92
+Tim Duncan,40,0,-6,3,1,Layup,13,65
+Tim Duncan,40,0,-8,3,1,Hook,51,83
+Tim Duncan,40,0,-4,3,1,Layup,12,62
+Tim Duncan,41,0,2,1,1,Special Jump Shot,2,144
+Tim Duncan,41,0,9,1,1,Layup,15,56
+Tim Duncan,41,0,11,1,1,Layup,40,61
+Tim Duncan,41,0,15,1,1,Dunk,-7,50
+Tim Duncan,41,0,10,2,1,Special Jump Shot,-98,89
+Tim Duncan,41,0,8,2,0,Jump Shot,-106,220
+Tim Duncan,41,0,-2,3,0,Hook,75,75
+Tim Duncan,41,0,-2,3,0,Jump Shot,-141,124
+Tim Duncan,41,0,-4,4,1,Tip,-8,53
+Tim Duncan,42,1,0,1,1,Layup,4,50
+Tim Duncan,42,1,1,1,1,Jump Shot,-119,163
+Tim Duncan,42,1,-1,1,1,Jump Shot,-114,190
+Tim Duncan,42,1,-3,1,0,Jump Shot,-49,244
+Tim Duncan,42,1,-1,1,0,Layup,-11,54
+Tim Duncan,42,1,-2,2,1,Tip,10,50
+Tim Duncan,42,1,1,2,0,Jump Shot,88,185
+Tim Duncan,42,1,2,2,0,Jump Shot,69,76
+Tim Duncan,42,1,2,3,1,Special Jump Shot,-24,76
+Tim Duncan,42,1,-1,3,0,Jump Shot,-146,100
+Tim Duncan,42,1,7,3,1,Jump Shot,29,100
+Tim Duncan,42,1,5,4,1,Special Jump Shot,88,65
+Tim Duncan,42,1,-1,4,1,Jump Shot,78,73
+Tim Duncan,43,0,2,1,1,Jump Shot,-149,98
+Tim Duncan,43,0,-4,1,1,Layup,24,57
+Tim Duncan,43,0,-4,2,0,Layup,-19,65
+Tim Duncan,43,0,-4,2,0,Hook,58,62
+Tim Duncan,43,0,-7,2,0,Jump Shot,-62,57
+Tim Duncan,43,0,-7,2,0,Jump Shot,32,98
+Tim Duncan,43,0,-12,2,0,Dunk,2,56
+Tim Duncan,43,0,-12,3,1,Jump Shot,-103,151
+Tim Duncan,43,0,-14,3,0,Jump Shot,-43,72
+Tim Duncan,43,0,-12,3,1,Jump Shot,31,56
+Tim Duncan,43,0,-10,3,1,Layup,20,61
+Tim Duncan,43,0,-9,3,1,Layup,-18,51
+Tim Duncan,43,0,-9,3,0,Jump Shot,-81,199
+Tim Duncan,43,0,-7,3,1,Layup,12,64
+Tim Duncan,43,0,4,4,1,Tip,23,53
+Tim Duncan,43,0,6,4,1,Dunk,0,48
+Tim Duncan,43,0,8,4,1,Layup,-13,57
+Tim Duncan,44,0,4,1,0,Jump Shot,-125,117
+Tim Duncan,44,0,4,1,1,Hook,110,103
+Tim Duncan,44,0,0,1,0,Jump Shot,-93,70
+Tim Duncan,44,0,-3,1,1,Jump Shot,-108,196
+Tim Duncan,44,0,-13,2,1,Hook,-23,132
+Tim Duncan,44,0,-13,2,1,Jump Shot,-48,73
+Tim Duncan,44,0,-14,2,1,Jump Shot,-10,94
+Tim Duncan,44,0,-12,3,1,Hook,-15,87
+Tim Duncan,44,0,-10,3,1,Layup,6,61
+Tim Duncan,44,0,-9,3,0,Jump Shot,48,84
+Tim Duncan,44,0,-7,3,1,Jump Shot,34,61
+Tim Duncan,44,0,-7,3,1,Hook,-13,105
+Tim Duncan,44,0,-3,3,1,Jump Shot,12,98
+Tim Duncan,44,0,-5,4,0,Jump Shot,-78,64
+Tim Duncan,44,0,-3,4,1,Jump Shot,-46,69
+Tim Duncan,44,0,-5,4,0,Jump Shot,-67,64
+Tim Duncan,44,0,-5,4,0,Jump Shot,23,187
+Tim Duncan,44,0,-2,4,1,Special Jump Shot,-8,94
+Tim Duncan,44,0,6,5,1,Special Jump Shot,-133,91
+Tim Duncan,44,0,4,5,0,Jump Shot,-10,151
+Tim Duncan,45,0,0,1,1,Jump Shot,111,203
+Tim Duncan,45,0,0,1,0,Jump Shot,-49,222
+Tim Duncan,45,0,-3,2,1,Jump Shot,-95,199
+Tim Duncan,45,0,2,2,1,Layup,23,47
+Tim Duncan,45,0,3,2,0,Jump Shot,99,75
+Tim Duncan,45,0,1,2,1,Layup,0,54
+Tim Duncan,45,0,1,2,0,Jump Shot,32,222
+Tim Duncan,45,0,-2,3,0,Jump Shot,143,135
+Tim Duncan,45,0,-2,3,1,Jump Shot,127,163
+Tim Duncan,45,0,-1,3,1,Jump Shot,15,78
+Tim Duncan,45,0,7,4,0,Jump Shot,-40,80
+Tim Duncan,46,0,-1,1,0,Jump Shot,-23,229
+Tim Duncan,46,0,-1,1,1,Dunk,1,53
+Tim Duncan,46,0,-3,1,0,Layup,-5,56
+Tim Duncan,46,0,-4,1,1,Jump Shot,15,267
+Tim Duncan,46,0,-2,2,1,Hook,42,70
+Tim Duncan,46,0,-9,2,1,Hook,-54,59
+Tim Duncan,46,0,-13,3,0,Jump Shot,-128,225
+Tim Duncan,46,0,-17,3,1,Jump Shot,-51,72
+Tim Duncan,47,0,5,1,0,Special Jump Shot,-65,86
+Tim Duncan,47,0,5,1,0,Jump Shot,86,206
+Tim Duncan,47,0,-1,2,0,Hook,28,113
+Tim Duncan,47,0,4,2,1,Special Jump Shot,-81,86
+Tim Duncan,47,0,2,3,0,Hook,28,73
+Tim Duncan,47,0,0,3,0,Layup,26,53
+Tim Duncan,47,0,2,3,1,Jump Shot,37,192
+Tim Duncan,47,0,1,3,1,Special Jump Shot,-23,182
+Tim Duncan,47,0,4,3,1,Hook,56,70
+Tim Duncan,47,0,3,4,0,Hook,39,73
+Tim Duncan,47,0,9,4,1,Jump Shot,-57,87
+Tim Duncan,47,0,11,4,1,Layup,20,53
+Tim Duncan,47,0,11,4,1,Jump Shot,116,198
+Tim Duncan,47,0,8,4,1,Special Jump Shot,70,67
+Tim Duncan,47,0,17,4,1,Dunk,-5,50
+Tim Duncan,48,0,3,1,1,Jump Shot,-5,207
+Tim Duncan,48,0,-2,1,1,Layup,-8,56
+Tim Duncan,48,0,-5,1,0,Jump Shot,26,69
+Tim Duncan,48,0,-1,2,0,Layup,12,67
+Tim Duncan,48,0,-3,2,0,Jump Shot,-43,236
+Tim Duncan,48,0,-3,2,0,Layup,-16,62
+Tim Duncan,48,0,-4,2,1,Special Jump Shot,0,105
+Tim Duncan,48,0,0,2,1,Layup,15,59
+Tim Duncan,48,0,3,3,0,Hook,54,67
+Tim Duncan,48,0,3,3,1,Layup,-7,53
+Tim Duncan,48,0,5,3,0,Jump Shot,-87,198
+Tim Duncan,48,0,4,3,0,Jump Shot,97,195
+Tim Duncan,48,0,6,3,1,Layup,-10,57
+Tim Duncan,48,0,2,3,0,Jump Shot,-149,103
+Tim Duncan,48,0,1,3,0,Special Jump Shot,-21,81
+Tim Duncan,48,0,9,4,1,Hook,36,65
+Tim Duncan,48,0,7,4,0,Jump Shot,39,155
+Tim Duncan,48,0,9,4,1,Jump Shot,-134,113
+Tim Duncan,49,0,-3,1,0,Jump Shot,-123,89
+Tim Duncan,49,0,-1,1,1,Layup,12,50
+Tim Duncan,49,0,-4,1,0,Hook,-16,57
+Tim Duncan,49,0,-11,2,0,Special Jump Shot,78,80
+Tim Duncan,49,0,-11,2,1,Layup,-16,61
+Tim Duncan,49,0,-15,2,0,Jump Shot,-90,81
+Tim Duncan,49,0,-12,2,0,Jump Shot,-57,848
+Tim Duncan,49,0,-12,3,0,Jump Shot,106,80
+Tim Duncan,49,0,-16,3,1,Special Jump Shot,51,87
+Tim Duncan,49,0,-14,3,1,Layup,9,51
+Tim Duncan,50,1,-5,1,0,Jump Shot,-101,188
+Tim Duncan,50,1,0,1,0,Jump Shot,0,106
+Tim Duncan,50,1,-5,1,1,Layup,-11,50
+Tim Duncan,50,1,-5,1,0,Special Jump Shot,75,62
+Tim Duncan,50,1,6,2,0,Jump Shot,-106,181
+Tim Duncan,50,1,-2,2,1,Jump Shot,102,203
+Tim Duncan,50,1,-4,2,1,Tip,-10,48
+Tim Duncan,50,1,0,3,0,Jump Shot,-89,103
+Tim Duncan,50,1,-2,3,1,Dunk,7,51
+Tim Duncan,50,1,0,3,0,Layup,-7,73
+Tim Duncan,50,1,-1,3,0,Jump Shot,-79,210
+Tim Duncan,50,1,-10,3,1,Layup,-2,54
+Tim Duncan,51,1,0,1,0,Layup,20,65
+Tim Duncan,51,1,0,1,0,Layup,6,40
+Tim Duncan,51,1,4,1,0,Jump Shot,-114,162
+Tim Duncan,51,1,2,1,0,Jump Shot,-37,111
+Tim Duncan,51,1,5,1,0,Jump Shot,13,228
+Tim Duncan,51,1,11,2,1,Layup,28,50
+Tim Duncan,51,1,10,2,0,Special Jump Shot,-89,100
+Tim Duncan,51,1,9,2,1,Layup,18,62
+Tim Duncan,51,1,1,3,1,Special Jump Shot,-59,89
+Tim Duncan,51,1,-2,3,1,Jump Shot,-35,102
+Tim Duncan,51,1,-4,3,1,Jump Shot,40,102
+Tim Duncan,51,1,-2,4,1,Jump Shot,100,160
+Tim Duncan,52,1,1,1,0,Jump Shot,-106,201
+Tim Duncan,52,1,1,1,0,Jump Shot,-112,199
+Tim Duncan,52,1,-10,2,0,Layup,-11,45
+Tim Duncan,52,1,-9,2,1,Layup,-5,48
+Tim Duncan,52,1,-2,2,0,Special Jump Shot,84,65
+Tim Duncan,52,1,-4,2,1,Tip,24,54
+Tim Duncan,52,1,-5,3,1,Jump Shot,6,94
+Tim Duncan,52,1,-5,3,0,Jump Shot,-67,67
+Tim Duncan,52,1,-7,3,1,Jump Shot,62,217
+Tim Duncan,52,1,-8,4,1,Layup,15,67
+Tim Duncan,52,1,-7,4,0,Jump Shot,51,214
+Tim Duncan,53,0,0,1,0,Jump Shot,-82,217
+Tim Duncan,53,0,-1,1,1,Dunk,-7,53
+Tim Duncan,53,0,-3,1,0,Hook,-97,117
+Tim Duncan,53,0,10,3,1,Dunk,-5,51
+Tim Duncan,53,0,11,3,0,Special Jump Shot,-146,53
+Tim Duncan,54,1,-12,1,1,Jump Shot,-157,53
+Tim Duncan,54,1,-14,2,1,Special Jump Shot,0,113
+Tim Duncan,54,1,-12,2,0,Jump Shot,-141,149
+Tim Duncan,54,1,-14,2,1,Dunk,-5,54
+Tim Duncan,54,1,-12,2,1,Jump Shot,53,50
+Tim Duncan,54,1,-12,3,1,Jump Shot,-52,75
+Tim Duncan,54,1,-10,3,0,Special Jump Shot,40,121
+Tim Duncan,54,1,-7,3,0,Jump Shot,75,59
+Tim Duncan,54,1,-13,4,1,Layup,17,72
+Tim Duncan,54,1,-15,4,0,Jump Shot,45,65
+Tim Duncan,54,1,-14,4,1,Layup,21,51
+Tim Duncan,54,1,-14,4,1,Jump Shot,-26,226
+Tim Duncan,54,1,-16,4,1,Jump Shot,88,78
+Tim Duncan,55,1,0,1,0,Jump Shot,-119,184
+Tim Duncan,55,1,1,1,0,Jump Shot,-130,188
+Tim Duncan,55,1,0,1,0,Jump Shot,26,204
+Tim Duncan,55,1,-2,1,0,Layup,6,79
+Tim Duncan,55,1,-2,1,0,Layup,-21,50
+Tim Duncan,55,1,0,2,1,Layup,6,56
+Tim Duncan,55,1,-1,2,1,Jump Shot,4,80
+Tim Duncan,55,1,2,3,1,Layup,0,62
+Tim Duncan,55,1,-1,3,0,Jump Shot,124,193
+Tim Duncan,55,1,-4,3,0,Jump Shot,122,116
+Tim Duncan,55,1,-7,3,1,Special Jump Shot,24,84
+Tim Duncan,55,1,-8,4,0,Jump Shot,89,45
+Tim Duncan,56,0,0,1,0,Jump Shot,-41,92
+Tim Duncan,56,0,7,1,1,Jump Shot,-38,240
+Tim Duncan,56,0,15,1,0,Layup,2,73
+Tim Duncan,56,0,17,1,1,Tip,4,59
+Tim Duncan,56,0,31,2,0,Layup,-26,61
+Tim Duncan,56,0,30,2,0,Tip,-23,50
+Tim Duncan,56,0,26,3,0,Jump Shot,81,225
+Tim Duncan,57,1,-7,1,0,Jump Shot,-134,182
+Tim Duncan,57,1,-10,1,1,Special Jump Shot,89,76
+Tim Duncan,57,1,-10,1,1,Hook,-45,80
+Tim Duncan,57,1,-8,1,0,Jump Shot,108,199
+Tim Duncan,57,1,-1,1,1,Tip,1,51
+Tim Duncan,57,1,-16,2,1,Tip,-2,57
+Tim Duncan,57,1,-16,2,0,Jump Shot,65,222
+Tim Duncan,57,1,-11,3,0,Jump Shot,95,185
+Tim Duncan,57,1,-8,3,1,Layup,21,57
+Tim Duncan,58,1,0,1,0,Jump Shot,-73,97
+Tim Duncan,58,1,-1,1,0,Jump Shot,-105,207
+Tim Duncan,58,1,1,1,0,Jump Shot,-117,198
+Tim Duncan,58,1,-2,1,1,Special Jump Shot,2,94
+Tim Duncan,58,1,-5,1,1,Layup,0,45
+Tim Duncan,58,1,-7,1,1,Layup,10,51
+Tim Duncan,58,1,-34,3,1,Layup,2,53
+Tim Duncan,58,1,-30,3,0,Jump Shot,-7,240
+Tim Duncan,59,1,0,1,0,Layup,-19,29
+Tim Duncan,59,1,-4,1,1,Special Jump Shot,-26,158
+Tim Duncan,59,1,-4,1,1,Layup,-16,50
+Tim Duncan,59,1,-7,1,1,Jump Shot,-16,100
+Tim Duncan,59,1,-7,1,1,Jump Shot,-101,184
+Tim Duncan,59,1,-7,2,1,Jump Shot,72,47
+Tim Duncan,59,1,-13,3,0,Jump Shot,18,84
+Tim Duncan,59,1,-10,3,0,Jump Shot,-95,220
+Tim Duncan,59,1,-7,3,1,Special Jump Shot,-79,56
+Tim Duncan,59,1,-18,4,1,Jump Shot,0,247
+Tim Duncan,60,0,2,1,0,Jump Shot,-57,247
+Tim Duncan,60,0,1,1,0,Layup,-11,75
+Tim Duncan,60,0,0,1,1,Special Jump Shot,75,83
+Tim Duncan,60,0,10,1,1,Jump Shot,40,223
+Tim Duncan,60,0,0,2,0,Layup,-17,67
+Tim Duncan,60,0,-1,3,0,Jump Shot,64,223
+Tim Duncan,60,0,2,3,0,Jump Shot,29,103
+Tim Duncan,60,0,4,3,1,Layup,-19,61
+Tim Duncan,60,0,2,3,1,Layup,9,61
+Tim Duncan,60,0,11,4,1,Jump Shot,-190,59
+Tim Duncan,61,0,2,1,0,Jump Shot,-82,229
+Tim Duncan,61,0,4,1,0,Jump Shot,70,83
+Tim Duncan,61,0,1,1,0,Jump Shot,29,92
+Tim Duncan,61,0,8,2,0,Jump Shot,-13,136
+Tim Duncan,61,0,10,3,0,Jump Shot,-45,91
+Tim Duncan,61,0,5,3,0,Hook,-23,149
+Tim Duncan,61,0,12,3,1,Jump Shot,84,95
+Tim Duncan,61,0,11,3,0,Jump Shot,67,67
+Tim Duncan,61,0,12,3,1,Jump Shot,77,209
+Tim Duncan,61,0,17,4,1,Jump Shot,84,171
+Tim Duncan,61,0,15,4,0,Alleyoop,28,65
+Tim Duncan,62,1,-1,1,1,Layup,-15,45
+Tim Duncan,62,1,1,1,0,Jump Shot,-120,139
+Tim Duncan,62,1,-3,1,1,Layup,15,57
+Tim Duncan,62,1,-21,2,0,Jump Shot,-89,51
+Tim Duncan,62,1,-20,2,1,Layup,-15,45
+Tim Duncan,62,1,-21,2,1,Layup,13,53
+Tim Duncan,62,1,-19,2,0,Tip,-11,50
+Tim Duncan,62,1,-19,2,1,Layup,13,64
+Tim Duncan,62,1,-21,2,1,Special Jump Shot,-18,114
+Tim Duncan,62,1,-16,2,1,Dunk,2,51
+Tim Duncan,62,1,-16,3,1,Layup,-8,54
+Tim Duncan,62,1,-17,3,1,Layup,-5,64
+Tim Duncan,63,1,0,1,1,Jump Shot,4,125
+Tim Duncan,63,1,-6,1,0,Layup,-21,56
+Tim Duncan,63,1,-10,1,1,Jump Shot,-133,198
+Tim Duncan,63,1,-7,1,1,Special Jump Shot,-75,182
+Tim Duncan,63,1,-7,1,0,Jump Shot,0,91
+Tim Duncan,63,1,-9,1,1,Dunk,-10,45
+Tim Duncan,63,1,-15,2,0,Jump Shot,-114,98
+Tim Duncan,63,1,-15,2,1,Dunk,0,51
+Tim Duncan,63,1,-15,2,0,Jump Shot,-59,226
+Tim Duncan,63,1,-16,2,0,Jump Shot,-86,50
+Tim Duncan,63,1,-22,3,1,Jump Shot,152,163
+Tim Duncan,63,1,-19,3,1,Jump Shot,-52,236
+Tim Duncan,63,1,-18,3,1,Tip,24,50
+Tim Duncan,63,1,-15,3,0,Jump Shot,59,226
+Tim Duncan,63,1,-9,4,0,Layup,15,44
+Tim Duncan,63,1,-7,4,1,Layup,-18,51
+Tim Duncan,63,1,-7,4,1,Layup,18,51
+Tim Duncan,63,1,-6,4,1,Special Jump Shot,78,50
+Tim Duncan,63,1,-6,4,0,Special Jump Shot,70,81
+Tim Duncan,63,1,-8,4,1,Layup,12,51
+Tim Duncan,64,0,2,1,0,Jump Shot,-106,188
+Tim Duncan,64,0,2,1,1,Jump Shot,-152,168
+Tim Duncan,64,0,2,1,1,Jump Shot,-52,218
+Tim Duncan,64,0,3,1,1,Hook,53,80
+Tim Duncan,64,0,1,1,0,Jump Shot,106,294
+Tim Duncan,64,0,1,1,1,Dunk,-21,56
+Tim Duncan,64,0,0,1,0,Layup,6,57
+Tim Duncan,64,0,-4,1,0,Special Jump Shot,12,103
+Tim Duncan,64,0,-4,1,0,Layup,-10,64
+Tim Duncan,64,0,-4,1,1,Layup,10,61
+Tim Duncan,64,0,9,2,0,Jump Shot,-73,225
+Tim Duncan,64,0,15,2,1,Special Jump Shot,45,69
+Tim Duncan,64,0,21,2,1,Layup,21,54
+Tim Duncan,64,0,21,3,1,Jump Shot,-112,179
+Tim Duncan,64,0,20,3,1,Jump Shot,-71,64
+Tim Duncan,65,1,-3,1,1,Dunk,-2,47
+Tim Duncan,65,1,-5,1,1,Jump Shot,80,69
+Tim Duncan,65,1,-9,1,0,Jump Shot,0,237
+Tim Duncan,65,1,-13,2,1,Tip,-16,62
+Tim Duncan,65,1,-13,2,0,Layup,18,36
+Tim Duncan,65,1,-10,2,0,Special Jump Shot,-48,50
+Tim Duncan,65,1,-19,2,1,Dunk,0,54
+Tim Duncan,65,1,-16,3,0,Jump Shot,75,62
+Tim Duncan,65,1,-22,3,1,Layup,-4,53
+Tim Duncan,66,0,3,1,1,Jump Shot,114,116
+Tim Duncan,66,0,6,1,0,Layup,-10,73
+Tim Duncan,66,0,7,1,0,Jump Shot,-15,98
+Tim Duncan,66,0,14,2,0,Jump Shot,75,222
+Tim Duncan,66,0,15,2,0,Jump Shot,-111,181
+Tim Duncan,66,0,11,3,0,Hook,-29,84
+Tim Duncan,66,0,11,3,0,Tip,7,62
+Tim Duncan,66,0,14,3,1,Dunk,-10,48
+Tim Duncan,66,0,14,4,0,Jump Shot,70,223
+Tim Duncan,66,0,16,4,1,Dunk,17,62
+Tim Duncan,67,1,2,1,0,Jump Shot,97,201
+Tim Duncan,67,1,2,1,1,Tip,-7,50
+Tim Duncan,67,1,2,1,1,Dunk,6,45
+Tim Duncan,67,1,-2,1,1,Layup,17,51
+Tim Duncan,67,1,-4,1,1,Special Jump Shot,0,98
+Tim Duncan,67,1,-8,1,1,Jump Shot,-139,111
+Tim Duncan,67,1,-8,1,1,Jump Shot,-90,87
+Tim Duncan,67,1,-14,2,0,Special Jump Shot,-111,70
+Tim Duncan,67,1,-9,2,0,Jump Shot,73,44
+Tim Duncan,67,1,-16,3,0,Special Jump Shot,-62,103
+Tim Duncan,67,1,-13,3,1,Jump Shot,-8,225
+Tim Duncan,76,0,2,1,0,Special Jump Shot,-2,108
+Tim Duncan,76,0,-1,1,0,Jump Shot,102,212
+Tim Duncan,76,0,-1,1,0,Special Jump Shot,58,57
+Tim Duncan,76,0,10,1,1,Layup,-19,50
+Tim Duncan,76,0,11,1,1,Layup,15,47
+Tim Duncan,76,0,7,2,1,Jump Shot,-10,103
+Tim Duncan,76,0,4,2,0,Layup,15,45
+Tim Duncan,76,0,6,2,0,Special Jump Shot,32,105
+Tim Duncan,76,0,6,2,0,Layup,28,56
+Tim Duncan,76,0,4,2,0,Layup,9,53
+Tim Duncan,76,0,5,2,0,Layup,4,45
+Tim Duncan,76,0,4,3,1,Jump Shot,0,95
+Tim Duncan,76,0,2,3,0,Hook,0,83
+Tim Duncan,76,0,1,3,1,Jump Shot,-134,209
+Tim Duncan,76,0,1,3,0,Jump Shot,-160,111
+Tim Duncan,76,1,2,1,0,Jump Shot,121,75
+Tim Duncan,76,1,-8,1,1,Special Jump Shot,-139,72
+Tim Duncan,76,1,-11,1,1,Jump Shot,102,196
+Tim Duncan,76,1,-11,1,0,Jump Shot,77,59
+Tim Duncan,76,1,-9,2,0,Special Jump Shot,72,95
+Tim Duncan,76,1,-21,3,0,Jump Shot,-18,122
+Tim Duncan,76,1,-23,3,1,Special Jump Shot,56,125
+Tim Duncan,76,1,-16,3,0,Jump Shot,0,128
+Tim Duncan,76,1,-14,3,1,Jump Shot,-95,204
+Tim Duncan,76,1,-14,3,1,Layup,21,75
+Tim Duncan,76,0,7,1,1,Jump Shot,78,228
+Tim Duncan,76,0,2,1,0,Jump Shot,-153,75
+Tim Duncan,76,0,7,1,1,Special Jump Shot,9,97
+Tim Duncan,76,0,1,2,0,Hook,-19,102
+Tim Duncan,76,0,-2,2,0,Layup,-21,56
+Tim Duncan,76,0,0,3,1,Jump Shot,72,234
+Tim Duncan,76,0,2,3,1,Special Jump Shot,2,105
+Tim Duncan,76,0,5,3,0,Special Jump Shot,-87,78
+Tim Duncan,76,0,8,3,1,Tip,0,53
+Tim Duncan,76,0,11,3,1,Hook,73,75
+Tim Duncan,76,0,9,3,1,Hook,-57,102
+Tim Duncan,76,0,13,4,0,Jump Shot,-122,94
+Tim Duncan,152,0,0,1,0,Jump Shot,54,237
+Tim Duncan,152,0,-3,1,1,Jump Shot,91,217
+Tim Duncan,152,0,-5,1,0,Jump Shot,-67,100
+Tim Duncan,152,0,-7,1,0,Jump Shot,-43,69
+Tim Duncan,152,0,-7,2,1,Jump Shot,-136,86
+Tim Duncan,152,0,-7,2,0,Hook,70,78
+Tim Duncan,152,0,-5,2,1,Jump Shot,-64,72
+Tim Duncan,152,0,-8,2,1,Alleyoop,10,50
+Tim Duncan,152,0,-8,3,0,Jump Shot,-52,94
+Kawhi Leonard,0,1,-1,1,1,Jump Shot,226,54
+Kawhi Leonard,0,1,2,1,0,Special Jump Shot,-35,78
+Kawhi Leonard,0,1,3,1,1,Layup,12,53
+Kawhi Leonard,0,1,-21,2,1,Dunk,17,45
+Kawhi Leonard,0,1,-18,3,0,Jump Shot,-106,203
+Kawhi Leonard,0,1,-18,3,0,Special Jump Shot,84,81
+Kawhi Leonard,0,1,-6,4,0,Layup,-23,76
+Kawhi Leonard,0,1,-10,4,1,Layup,-16,65
+Kawhi Leonard,0,1,-13,4,1,Jump Shot,-65,304
+Kawhi Leonard,1,0,0,1,0,Jump Shot,-228,53
+Kawhi Leonard,1,0,-7,1,1,Jump Shot,-187,64
+Kawhi Leonard,1,0,-7,1,0,Jump Shot,-76,316
+Kawhi Leonard,1,0,-5,1,1,Layup,-23,73
+Kawhi Leonard,1,0,-5,1,0,Jump Shot,0,124
+Kawhi Leonard,1,0,-13,2,0,Layup,-11,81
+Kawhi Leonard,1,0,-11,2,0,Jump Shot,-29,195
+Kawhi Leonard,1,0,-8,2,1,Special Jump Shot,2,113
+Kawhi Leonard,1,0,-2,2,1,Jump Shot,-73,248
+Kawhi Leonard,1,0,0,3,1,Layup,4,67
+Kawhi Leonard,1,0,1,3,1,Special Jump Shot,102,33
+Kawhi Leonard,1,0,1,3,0,Jump Shot,-239,64
+Kawhi Leonard,1,0,1,4,0,Jump Shot,-232,62
+Kawhi Leonard,1,0,0,4,0,Jump Shot,-52,124
+Kawhi Leonard,1,0,2,1,1,Special Jump Shot,168,50
+Kawhi Leonard,1,0,-2,2,0,Jump Shot,-161,65
+Kawhi Leonard,1,0,-6,2,1,Jump Shot,15,244
+Kawhi Leonard,1,0,-9,3,0,Jump Shot,-57,228
+Kawhi Leonard,1,0,-9,3,1,Layup,12,51
+Kawhi Leonard,1,0,-8,3,1,Dunk,1,53
+Kawhi Leonard,2,0,-9,1,0,Jump Shot,234,33
+Kawhi Leonard,2,0,-7,2,1,Dunk,1,51
+Kawhi Leonard,2,0,-7,2,0,Jump Shot,102,187
+Kawhi Leonard,2,0,-8,2,1,Layup,-13,44
+Kawhi Leonard,2,0,-8,2,0,Jump Shot,-123,169
+Kawhi Leonard,2,0,-8,3,1,Jump Shot,9,223
+Kawhi Leonard,2,0,-7,3,1,Dunk,1,69
+Kawhi Leonard,2,0,-7,3,0,Jump Shot,37,97
+Kawhi Leonard,2,0,-6,3,1,Dunk,1,64
+Kawhi Leonard,2,0,-8,3,0,Hook,4,130
+Kawhi Leonard,2,0,4,4,1,Hook,6,103
+Kawhi Leonard,2,0,4,4,0,Special Jump Shot,-128,75
+Kawhi Leonard,2,0,10,4,1,Dunk,-2,64
+Kawhi Leonard,2,0,9,4,0,Jump Shot,-130,269
+Kawhi Leonard,3,1,-2,1,0,Layup,-21,44
+Kawhi Leonard,3,1,2,1,0,Special Jump Shot,162,47
+Kawhi Leonard,3,1,0,1,0,Layup,24,47
+Kawhi Leonard,3,1,-7,1,1,Dunk,1,50
+Kawhi Leonard,3,1,0,2,1,Special Jump Shot,-18,190
+Kawhi Leonard,3,1,7,2,0,Jump Shot,-157,247
+Kawhi Leonard,3,1,1,2,1,Jump Shot,-37,192
+Kawhi Leonard,3,1,-2,3,1,Layup,9,59
+Kawhi Leonard,3,1,-1,4,0,Jump Shot,222,47
+Kawhi Leonard,4,1,-5,1,1,Jump Shot,80,300
+Kawhi Leonard,4,1,-11,1,1,Jump Shot,154,36
+Kawhi Leonard,4,1,-9,2,1,Jump Shot,-179,111
+Kawhi Leonard,4,1,-9,3,1,Jump Shot,17,76
+Kawhi Leonard,4,1,-6,3,1,Special Jump Shot,-7,229
+Kawhi Leonard,4,1,-8,3,1,Layup,16,45
+Kawhi Leonard,4,1,-8,3,0,Special Jump Shot,99,62
+Kawhi Leonard,5,0,16,1,1,Layup,-24,64
+Kawhi Leonard,5,0,18,2,1,Layup,26,69
+Kawhi Leonard,5,0,23,2,1,Layup,-23,67
+Kawhi Leonard,5,0,23,2,1,Dunk,15,67
+Kawhi Leonard,5,0,18,2,0,Jump Shot,237,72
+Kawhi Leonard,5,0,20,2,1,Jump Shot,239,97
+Kawhi Leonard,5,0,22,2,0,Jump Shot,-225,109
+Kawhi Leonard,5,0,32,4,1,Special Jump Shot,-48,160
+Kawhi Leonard,5,0,32,4,1,Special Jump Shot,75,72
+Kawhi Leonard,5,0,35,4,0,Layup,0,75
+Kawhi Leonard,6,0,0,1,0,Layup,-15,61
+Kawhi Leonard,6,0,6,1,1,Special Jump Shot,121,127
+Kawhi Leonard,6,0,3,1,0,Jump Shot,-237,45
+Kawhi Leonard,6,0,16,2,0,Jump Shot,-32,64
+Kawhi Leonard,6,0,12,2,0,Jump Shot,-248,45
+Kawhi Leonard,6,0,21,3,1,Layup,6,61
+Kawhi Leonard,6,0,21,3,1,Special Jump Shot,-7,83
+Kawhi Leonard,6,0,24,3,1,Jump Shot,-228,31
+Kawhi Leonard,6,0,25,3,1,Special Jump Shot,119,163
+Kawhi Leonard,6,0,27,3,1,Special Jump Shot,138,151
+Kawhi Leonard,6,0,20,3,0,Jump Shot,-119,57
+Kawhi Leonard,6,0,19,4,0,Jump Shot,192,199
+Kawhi Leonard,6,1,-2,1,1,Layup,-19,70
+Kawhi Leonard,6,1,-5,1,1,Jump Shot,-237,48
+Kawhi Leonard,6,1,-8,1,1,Jump Shot,-229,44
+Kawhi Leonard,6,1,-12,2,1,Dunk,-8,47
+Kawhi Leonard,6,1,-10,3,0,Jump Shot,-175,239
+Kawhi Leonard,6,1,-10,3,1,Special Jump Shot,-166,163
+Kawhi Leonard,6,1,-7,3,0,Jump Shot,-237,42
+Kawhi Leonard,7,0,0,1,0,Jump Shot,-188,87
+Kawhi Leonard,7,0,1,1,0,Jump Shot,105,207
+Kawhi Leonard,7,0,-1,1,0,Layup,-21,61
+Kawhi Leonard,7,0,-1,1,1,Layup,7,51
+Kawhi Leonard,7,0,-3,1,0,Jump Shot,242,86
+Kawhi Leonard,7,0,-5,3,1,Dunk,7,59
+Kawhi Leonard,7,0,-7,3,0,Jump Shot,-169,228
+Kawhi Leonard,7,0,10,4,1,Layup,13,50
+Kawhi Leonard,8,1,-4,1,1,Layup,17,48
+Kawhi Leonard,8,1,2,1,0,Jump Shot,228,72
+Kawhi Leonard,8,1,-2,2,1,Jump Shot,-169,179
+Kawhi Leonard,8,1,-2,2,0,Layup,10,53
+Kawhi Leonard,8,1,-2,2,0,Jump Shot,-235,44
+Kawhi Leonard,8,1,-1,3,1,Layup,-4,67
+Kawhi Leonard,8,1,-3,3,1,Jump Shot,-40,237
+Kawhi Leonard,8,1,-4,3,0,Jump Shot,40,57
+Kawhi Leonard,8,1,-6,3,1,Layup,0,56
+Kawhi Leonard,8,1,-9,3,1,Jump Shot,-155,250
+Kawhi Leonard,8,1,-5,3,0,Jump Shot,212,193
+Kawhi Leonard,8,1,-9,3,0,Jump Shot,29,222
+Kawhi Leonard,8,1,-12,3,1,Layup,4,62
+Kawhi Leonard,8,1,-13,4,0,Jump Shot,-134,277
+Kawhi Leonard,9,0,-3,1,0,Special Jump Shot,-120,204
+Kawhi Leonard,9,0,-1,1,1,Layup,28,51
+Kawhi Leonard,9,0,11,2,1,Layup,-10,47
+Kawhi Leonard,9,0,14,2,1,Jump Shot,-153,72
+Kawhi Leonard,9,0,14,2,1,Jump Shot,163,54
+Kawhi Leonard,9,0,10,3,0,Special Jump Shot,138,147
+Kawhi Leonard,9,0,9,3,0,Special Jump Shot,149,65
+Kawhi Leonard,9,0,10,3,0,Tip,6,57
+Kawhi Leonard,9,0,12,3,1,Layup,-13,61
+Kawhi Leonard,9,0,3,4,0,Jump Shot,113,274
+Kawhi Leonard,9,0,5,4,1,Special Jump Shot,-146,168
+Kawhi Leonard,10,1,-2,1,1,Jump Shot,-41,61
+Kawhi Leonard,10,1,-23,2,1,Jump Shot,181,226
+Kawhi Leonard,10,1,-27,2,1,Dunk,-5,70
+Kawhi Leonard,10,1,-27,2,0,Jump Shot,59,121
+Kawhi Leonard,11,1,0,1,0,Jump Shot,-128,266
+Kawhi Leonard,11,1,-13,2,0,Layup,-7,67
+Kawhi Leonard,11,1,-13,2,0,Layup,-21,54
+Kawhi Leonard,11,1,-17,2,0,Jump Shot,31,125
+Kawhi Leonard,11,1,-16,2,1,Layup,7,69
+Kawhi Leonard,11,1,-17,3,0,Special Jump Shot,-127,190
+Kawhi Leonard,11,1,-21,3,1,Dunk,15,57
+Kawhi Leonard,11,1,-26,3,1,Dunk,-8,54
+Kawhi Leonard,12,0,-2,1,0,Jump Shot,-196,199
+Kawhi Leonard,12,0,-2,1,0,Jump Shot,230,70
+Kawhi Leonard,12,0,4,1,1,Dunk,4,62
+Kawhi Leonard,12,0,5,1,1,Jump Shot,228,50
+Kawhi Leonard,12,0,4,1,0,Jump Shot,-40,291
+Kawhi Leonard,12,0,-2,2,0,Special Jump Shot,-59,87
+Kawhi Leonard,12,0,0,2,1,Dunk,9,56
+Kawhi Leonard,12,0,2,2,1,Dunk,-7,54
+Kawhi Leonard,12,0,4,2,1,Jump Shot,159,116
+Kawhi Leonard,12,0,3,2,1,Layup,9,48
+Kawhi Leonard,12,0,3,2,0,Jump Shot,222,54
+Kawhi Leonard,12,0,3,2,0,Special Jump Shot,65,125
+Kawhi Leonard,12,0,1,3,0,Jump Shot,-133,128
+Kawhi Leonard,12,0,-5,3,0,Layup,-8,70
+Kawhi Leonard,12,0,-5,3,0,Jump Shot,-45,62
+Kawhi Leonard,12,0,-3,4,0,Layup,17,54
+Kawhi Leonard,12,0,-6,4,0,Layup,6,64
+Kawhi Leonard,13,0,2,1,1,Layup,-5,72
+Kawhi Leonard,13,0,-1,1,1,Layup,1,57
+Kawhi Leonard,13,0,-1,1,0,Jump Shot,-166,251
+Kawhi Leonard,13,0,1,1,1,Dunk,-10,53
+Kawhi Leonard,13,0,6,2,1,Layup,10,83
+Kawhi Leonard,13,0,18,2,1,Special Jump Shot,155,76
+Kawhi Leonard,13,0,18,3,0,Jump Shot,72,247
+Kawhi Leonard,14,1,0,1,0,Jump Shot,-183,217
+Kawhi Leonard,14,1,13,2,1,Special Jump Shot,17,75
+Kawhi Leonard,14,1,9,3,1,Jump Shot,-130,108
+Kawhi Leonard,14,1,10,3,1,Jump Shot,51,113
+Kawhi Leonard,14,1,10,3,0,Layup,-11,73
+Kawhi Leonard,14,1,-3,4,0,Jump Shot,-92,242
+Kawhi Leonard,14,1,-1,4,0,Jump Shot,53,296
+Kawhi Leonard,15,1,1,1,0,Jump Shot,-138,165
+Kawhi Leonard,15,1,-3,1,1,Layup,-10,44
+Kawhi Leonard,15,1,0,2,0,Jump Shot,173,114
+Kawhi Leonard,15,1,1,3,0,Jump Shot,154,250
+Kawhi Leonard,15,1,-1,3,0,Jump Shot,226,89
+Kawhi Leonard,15,1,-5,4,0,Dunk,-4,53
+Kawhi Leonard,15,1,-4,4,1,Jump Shot,92,103
+Kawhi Leonard,16,1,0,1,0,Jump Shot,234,117
+Kawhi Leonard,16,1,-3,1,1,Jump Shot,-223,48
+Kawhi Leonard,16,1,-4,1,1,Special Jump Shot,135,113
+Kawhi Leonard,16,1,-8,1,0,Jump Shot,121,64
+Kawhi Leonard,16,1,-5,2,1,Layup,-7,56
+Kawhi Leonard,16,1,9,3,1,Jump Shot,152,196
+Kawhi Leonard,16,1,12,3,1,Dunk,1,51
+Kawhi Leonard,16,1,15,3,0,Special Jump Shot,-86,187
+Kawhi Leonard,16,1,22,3,0,Jump Shot,-235,33
+Kawhi Leonard,16,1,20,4,1,Dunk,0,57
+Kawhi Leonard,16,1,22,4,1,Dunk,9,50
+Kawhi Leonard,16,1,21,4,1,Jump Shot,-237,36
+Kawhi Leonard,16,1,24,4,0,Special Jump Shot,-59,231
+Kawhi Leonard,17,0,-4,1,1,Jump Shot,-234,51
+Kawhi Leonard,17,0,-7,1,0,Jump Shot,-234,31
+Kawhi Leonard,17,0,-3,2,0,Dunk,-24,64
+Kawhi Leonard,17,0,6,2,1,Layup,10,53
+Kawhi Leonard,17,0,8,3,1,Layup,15,65
+Kawhi Leonard,17,0,7,3,0,Layup,4,67
+Kawhi Leonard,17,0,10,3,0,Jump Shot,-231,47
+Kawhi Leonard,17,0,19,4,0,Special Jump Shot,81,105
+Kawhi Leonard,18,0,9,1,1,Layup,-13,48
+Kawhi Leonard,18,0,13,1,0,Jump Shot,95,69
+Kawhi Leonard,18,0,9,1,0,Jump Shot,143,72
+Kawhi Leonard,18,0,25,3,1,Dunk,-2,50
+Kawhi Leonard,18,0,22,3,0,Jump Shot,-168,177
+Kawhi Leonard,18,0,31,3,0,Jump Shot,171,62
+Kawhi Leonard,18,0,29,3,0,Layup,-11,50
+Kawhi Leonard,18,0,33,3,1,Alleyoop,1,51
+Kawhi Leonard,19,1,-3,1,1,Jump Shot,-226,50
+Kawhi Leonard,19,1,-4,1,1,Jump Shot,110,274
+Kawhi Leonard,19,1,-1,1,0,Jump Shot,-7,190
+Kawhi Leonard,19,1,-6,2,1,Jump Shot,144,135
+Kawhi Leonard,19,1,-10,3,1,Dunk,7,51
+Kawhi Leonard,19,1,0,3,1,Layup,9,45
+Kawhi Leonard,19,1,-3,3,1,Jump Shot,237,54
+Kawhi Leonard,19,1,-2,3,1,Layup,-4,62
+Kawhi Leonard,19,1,-1,3,1,Special Jump Shot,48,204
+Kawhi Leonard,19,1,4,3,0,Jump Shot,129,261
+Kawhi Leonard,19,1,7,3,0,Jump Shot,-229,65
+Kawhi Leonard,20,0,-1,1,0,Jump Shot,-223,64
+Kawhi Leonard,20,0,8,2,1,Special Jump Shot,37,59
+Kawhi Leonard,20,0,10,2,1,Special Jump Shot,-68,151
+Kawhi Leonard,20,0,19,2,1,Layup,-15,51
+Kawhi Leonard,20,0,12,3,1,Dunk,1,50
+Kawhi Leonard,20,0,14,3,1,Jump Shot,237,69
+Kawhi Leonard,20,0,14,4,0,Jump Shot,-239,65
+Kawhi Leonard,20,0,16,4,1,Layup,-10,54
+Kawhi Leonard,21,0,2,1,1,Jump Shot,136,73
+Kawhi Leonard,21,0,-2,1,0,Jump Shot,215,193
+Kawhi Leonard,21,0,-6,2,0,Jump Shot,-97,105
+Kawhi Leonard,21,0,-6,2,1,Jump Shot,-49,111
+Kawhi Leonard,21,0,-6,3,1,Tip,4,50
+Kawhi Leonard,21,0,-6,3,0,Jump Shot,233,44
+Kawhi Leonard,21,0,-1,3,1,Layup,18,42
+Kawhi Leonard,21,0,-1,3,0,Special Jump Shot,-163,89
+Kawhi Leonard,21,0,-5,3,1,Hook,-56,81
+Kawhi Leonard,21,0,-8,4,1,Special Jump Shot,-139,48
+Kawhi Leonard,21,0,-17,4,0,Jump Shot,-142,70
+Kawhi Leonard,22,0,-3,1,0,Jump Shot,-32,75
+Kawhi Leonard,22,0,-2,1,1,Hook,-84,102
+Kawhi Leonard,22,0,-4,1,0,Layup,-5,50
+Kawhi Leonard,22,0,-2,2,0,Jump Shot,-57,65
+Kawhi Leonard,22,0,0,2,1,Layup,-26,57
+Kawhi Leonard,22,0,1,2,1,Jump Shot,-229,130
+Kawhi Leonard,22,0,4,2,1,Jump Shot,-196,213
+Kawhi Leonard,22,0,1,3,0,Jump Shot,-27,100
+Kawhi Leonard,22,0,3,3,1,Layup,-8,50
+Kawhi Leonard,22,0,3,3,0,Layup,15,48
+Kawhi Leonard,22,0,4,4,0,Jump Shot,-43,297
+Kawhi Leonard,22,0,1,4,0,Special Jump Shot,42,80
+Kawhi Leonard,22,0,1,4,0,Layup,24,47
+Kawhi Leonard,23,0,-3,1,1,Special Jump Shot,1,182
+Kawhi Leonard,23,0,-8,1,0,Special Jump Shot,-153,92
+Kawhi Leonard,23,0,-12,2,1,Special Jump Shot,103,173
+Kawhi Leonard,23,0,-9,2,1,Special Jump Shot,-116,168
+Kawhi Leonard,23,0,1,2,1,Special Jump Shot,21,181
+Kawhi Leonard,23,0,-1,2,0,Jump Shot,4,171
+Kawhi Leonard,23,0,-3,2,0,Special Jump Shot,118,171
+Kawhi Leonard,23,0,2,2,1,Layup,-19,65
+Kawhi Leonard,23,0,2,2,1,Special Jump Shot,230,72
+Kawhi Leonard,23,0,2,3,0,Special Jump Shot,-128,166
+Kawhi Leonard,23,0,3,3,1,Layup,17,54
+Kawhi Leonard,23,0,3,3,0,Special Jump Shot,-68,78
+Kawhi Leonard,23,0,3,4,1,Special Jump Shot,-75,97
+Kawhi Leonard,24,1,-2,1,1,Jump Shot,-119,54
+Kawhi Leonard,24,1,-2,1,0,Jump Shot,119,72
+Kawhi Leonard,24,1,-4,1,1,Layup,29,72
+Kawhi Leonard,24,1,-5,1,1,Jump Shot,24,81
+Kawhi Leonard,24,1,-4,2,0,Special Jump Shot,36,204
+Kawhi Leonard,24,1,-5,2,0,Layup,9,50
+Kawhi Leonard,24,1,-5,2,0,Layup,-4,50
+Kawhi Leonard,24,1,-6,2,0,Jump Shot,-231,36
+Kawhi Leonard,24,1,-2,3,0,Jump Shot,-149,244
+Kawhi Leonard,24,1,-2,3,0,Jump Shot,140,251
+Kawhi Leonard,24,1,-8,4,1,Jump Shot,-182,215
+Kawhi Leonard,24,1,-13,4,1,Jump Shot,-237,50
+Kawhi Leonard,25,1,7,1,0,Jump Shot,-243,48
+Kawhi Leonard,25,1,9,1,0,Jump Shot,0,97
+Kawhi Leonard,25,1,9,1,0,Tip,-24,50
+Kawhi Leonard,25,1,18,1,0,Jump Shot,6,190
+Kawhi Leonard,25,1,12,2,0,Layup,17,51
+Kawhi Leonard,25,1,8,2,1,Layup,-2,48
+Kawhi Leonard,25,1,8,2,0,Jump Shot,-11,304
+Kawhi Leonard,25,1,9,3,1,Jump Shot,-7,92
+Kawhi Leonard,25,1,7,3,1,Layup,10,65
+Kawhi Leonard,25,1,5,3,1,Special Jump Shot,-23,83
+Kawhi Leonard,25,1,4,3,1,Jump Shot,21,143
+Kawhi Leonard,25,1,8,4,1,Jump Shot,160,157
+Kawhi Leonard,25,1,12,4,0,Special Jump Shot,-95,72
+Kawhi Leonard,26,0,0,1,0,Jump Shot,-149,65
+Kawhi Leonard,26,0,2,1,1,Dunk,-8,51
+Kawhi Leonard,26,0,-1,1,0,Jump Shot,-7,300
+Kawhi Leonard,26,0,8,2,1,Layup,13,54
+Kawhi Leonard,26,0,13,4,1,Layup,15,53
+Kawhi Leonard,27,1,0,1,0,Jump Shot,-237,37
+Kawhi Leonard,27,1,0,1,0,Layup,23,42
+Kawhi Leonard,27,1,-7,2,0,Jump Shot,223,54
+Kawhi Leonard,27,1,-9,2,0,Layup,1,51
+Kawhi Leonard,27,1,-8,3,1,Jump Shot,0,128
+Kawhi Leonard,27,1,0,3,1,Jump Shot,-237,53
+Kawhi Leonard,28,1,-12,1,1,Dunk,6,62
+Kawhi Leonard,28,1,-11,1,0,Jump Shot,-199,212
+Kawhi Leonard,28,1,-21,2,0,Layup,-8,65
+Kawhi Leonard,28,1,-24,3,0,Special Jump Shot,89,86
+Kawhi Leonard,28,1,-23,3,1,Layup,-2,53
+Kawhi Leonard,28,1,-26,3,1,Jump Shot,166,201
+Kawhi Leonard,29,1,1,1,1,Jump Shot,141,261
+Kawhi Leonard,29,1,2,2,0,Jump Shot,228,64
+Kawhi Leonard,29,1,6,3,0,Jump Shot,129,212
+Kawhi Leonard,29,1,6,4,0,Jump Shot,-210,171
+Kawhi Leonard,30,1,-18,1,1,Jump Shot,160,83
+Kawhi Leonard,30,1,-24,2,0,Jump Shot,-237,50
+Kawhi Leonard,30,1,-27,2,0,Jump Shot,-59,97
+Kawhi Leonard,30,1,-33,2,1,Dunk,-5,51
+Kawhi Leonard,30,1,-37,3,0,Jump Shot,-177,69
+Kawhi Leonard,30,1,-37,3,1,Jump Shot,-141,132
+Kawhi Leonard,30,1,-27,3,1,Special Jump Shot,-141,65
+Kawhi Leonard,30,1,-16,4,1,Jump Shot,-158,130
+Kawhi Leonard,31,0,4,1,1,Dunk,-5,53
+Kawhi Leonard,31,0,6,1,1,Jump Shot,-122,255
+Kawhi Leonard,31,0,8,1,1,Dunk,2,53
+Kawhi Leonard,31,0,10,2,1,Special Jump Shot,170,50
+Kawhi Leonard,31,0,8,3,1,Jump Shot,-210,181
+Kawhi Leonard,31,0,10,4,1,Jump Shot,64,59
+Kawhi Leonard,31,0,12,4,1,Layup,-11,54
+Kawhi Leonard,31,0,12,4,0,Jump Shot,226,51
+Kawhi Leonard,31,0,-1,5,0,Jump Shot,-228,23
+Kawhi Leonard,32,1,-4,1,0,Layup,-25,50
+Kawhi Leonard,32,1,-6,1,1,Layup,4,44
+Kawhi Leonard,32,1,-7,1,0,Layup,-25,54
+Kawhi Leonard,32,1,-9,1,1,Jump Shot,-64,76
+Kawhi Leonard,32,1,-9,1,1,Layup,9,48
+Kawhi Leonard,32,1,-9,2,1,Jump Shot,-71,80
+Kawhi Leonard,32,1,-8,2,1,Jump Shot,237,40
+Kawhi Leonard,32,1,-12,3,0,Jump Shot,234,47
+Kawhi Leonard,33,1,-1,1,1,Special Jump Shot,160,64
+Kawhi Leonard,33,1,-3,2,1,Jump Shot,29,76
+Kawhi Leonard,33,1,-7,3,1,Dunk,1,51
+Kawhi Leonard,33,1,-7,3,1,Dunk,-2,50
+Kawhi Leonard,33,1,-8,3,1,Jump Shot,9,296
+Kawhi Leonard,33,1,-11,3,1,Layup,7,48
+Kawhi Leonard,33,1,-10,3,0,Jump Shot,-187,48
+Kawhi Leonard,33,1,-12,4,0,Jump Shot,166,50
+Kawhi Leonard,33,1,-13,4,0,Layup,18,57
+Kawhi Leonard,33,1,-14,4,1,Jump Shot,17,87
+Kawhi Leonard,33,1,-16,4,1,Layup,-2,50
+Kawhi Leonard,34,0,-8,2,1,Special Jump Shot,59,163
+Kawhi Leonard,34,0,-8,2,1,Special Jump Shot,-142,48
+Kawhi Leonard,34,0,-1,2,1,Layup,15,61
+Kawhi Leonard,34,0,-3,3,0,Layup,-15,73
+Kawhi Leonard,34,0,-8,3,0,Jump Shot,-103,173
+Kawhi Leonard,34,0,4,4,1,Jump Shot,-221,59
+Kawhi Leonard,35,1,1,1,0,Jump Shot,-166,236
+Kawhi Leonard,35,1,-1,1,1,Dunk,13,53
+Kawhi Leonard,35,1,-3,1,1,Special Jump Shot,37,114
+Kawhi Leonard,35,1,-9,1,1,Jump Shot,-79,281
+Kawhi Leonard,35,1,-3,2,0,Jump Shot,228,62
+Kawhi Leonard,35,1,0,2,0,Jump Shot,86,160
+Kawhi Leonard,35,1,0,2,1,Layup,7,75
+Kawhi Leonard,35,1,-9,4,0,Jump Shot,4,135
+Kawhi Leonard,35,1,-11,4,1,Dunk,-15,67
+Kawhi Leonard,35,1,-12,4,1,Jump Shot,230,69
+Kawhi Leonard,35,1,-13,4,0,Jump Shot,179,226
+Kawhi Leonard,35,1,-8,4,0,Jump Shot,-229,34
+Kawhi Leonard,36,1,-4,1,1,Jump Shot,141,258
+Kawhi Leonard,36,1,-5,1,1,Jump Shot,0,133
+Kawhi Leonard,36,1,-7,1,0,Jump Shot,193,210
+Kawhi Leonard,36,1,2,2,1,Layup,-8,64
+Kawhi Leonard,37,1,-2,1,1,Jump Shot,54,57
+Kawhi Leonard,37,1,0,1,0,Jump Shot,-106,184
+Kawhi Leonard,37,1,-2,1,1,Dunk,12,40
+Kawhi Leonard,37,1,-16,2,1,Layup,-11,50
+Kawhi Leonard,37,1,-14,2,0,Jump Shot,209,212
+Kawhi Leonard,37,1,-14,2,0,Jump Shot,136,181
+Kawhi Leonard,37,1,-12,3,0,Dunk,9,54
+Kawhi Leonard,37,1,-19,3,1,Dunk,-7,48
+Kawhi Leonard,37,1,-23,3,1,Dunk,7,51
+Kawhi Leonard,38,1,4,1,0,Jump Shot,187,212
+Kawhi Leonard,38,1,1,1,1,Jump Shot,-235,33
+Kawhi Leonard,50,1,0,1,0,Jump Shot,174,73
+Kawhi Leonard,50,1,-3,1,0,Layup,15,51
+Kawhi Leonard,50,1,-3,1,1,Tip,20,56
+Kawhi Leonard,50,1,-1,1,0,Jump Shot,-112,54
+Kawhi Leonard,50,1,-4,1,1,Jump Shot,-134,259
+Kawhi Leonard,50,1,-6,1,1,Alleyoop,7,51
+Kawhi Leonard,50,1,4,2,1,Special Jump Shot,77,106
+Kawhi Leonard,50,1,-6,3,0,Jump Shot,116,261
+Kawhi Leonard,50,1,-15,4,1,Dunk,-5,56
+Kawhi Leonard,51,1,4,1,0,Special Jump Shot,34,201
+Kawhi Leonard,51,1,0,1,1,Dunk,17,50
+Kawhi Leonard,51,1,0,1,1,Special Jump Shot,122,76
+Kawhi Leonard,51,1,11,2,0,Jump Shot,233,62
+Kawhi Leonard,51,1,8,2,1,Jump Shot,89,280
+Kawhi Leonard,51,1,6,2,1,Jump Shot,103,269
+Kawhi Leonard,51,1,1,3,0,Jump Shot,-235,108
+Kawhi Leonard,51,1,-4,4,0,Dunk,10,70
+Kawhi Leonard,51,1,-2,4,0,Jump Shot,-127,57
+Kawhi Leonard,52,1,-3,1,1,Jump Shot,177,217
+Kawhi Leonard,52,1,-4,1,0,Jump Shot,195,206
+Kawhi Leonard,52,1,-6,1,1,Jump Shot,118,47
+Kawhi Leonard,52,1,-8,2,1,Special Jump Shot,2,100
+Kawhi Leonard,52,1,-3,3,1,Jump Shot,-70,65
+Kawhi Leonard,52,1,-7,3,1,Jump Shot,-217,196
+Kawhi Leonard,52,1,-3,3,0,Jump Shot,-198,190
+Kawhi Leonard,52,1,-6,4,0,Layup,-5,56
+Kawhi Leonard,52,1,-8,4,1,Jump Shot,89,272
+Kawhi Leonard,53,0,0,1,0,Jump Shot,119,174
+Kawhi Leonard,53,0,0,1,0,Jump Shot,50,122
+Kawhi Leonard,53,0,-1,1,0,Jump Shot,42,83
+Kawhi Leonard,53,0,0,1,1,Jump Shot,-235,47
+Kawhi Leonard,53,0,1,2,1,Layup,1,45
+Kawhi Leonard,53,0,0,2,1,Jump Shot,127,59
+Kawhi Leonard,53,0,6,2,1,Dunk,1,50
+Kawhi Leonard,53,0,14,3,1,Jump Shot,-242,51
+Kawhi Leonard,53,0,25,4,1,Layup,-5,48
+Kawhi Leonard,53,0,28,4,1,Layup,0,51
+Kawhi Leonard,54,1,-3,1,1,Special Jump Shot,116,92
+Kawhi Leonard,54,1,-14,3,1,Jump Shot,18,114
+Kawhi Leonard,54,1,-10,3,0,Special Jump Shot,61,76
+Kawhi Leonard,54,1,-10,3,0,Jump Shot,-37,196
+Kawhi Leonard,54,1,-8,3,0,Jump Shot,231,64
+Kawhi Leonard,54,1,-13,3,1,Jump Shot,206,199
+Kawhi Leonard,54,1,-12,4,0,Jump Shot,-175,218
+Kawhi Leonard,54,1,-12,4,0,Layup,-29,57
+Kawhi Leonard,54,1,-15,4,1,Dunk,2,53
+Kawhi Leonard,54,1,-15,4,0,Special Jump Shot,12,87
+Kawhi Leonard,54,1,-12,4,0,Jump Shot,-111,278
+Kawhi Leonard,54,1,-16,4,0,Jump Shot,86,59
+Kawhi Leonard,55,1,-1,1,1,Layup,1,42
+Kawhi Leonard,55,1,-2,2,1,Dunk,-7,53
+Kawhi Leonard,55,1,-1,2,1,Jump Shot,0,294
+Kawhi Leonard,55,1,-7,3,1,Dunk,4,56
+Kawhi Leonard,55,1,-5,3,0,Jump Shot,-188,222
+Kawhi Leonard,55,1,-12,4,1,Dunk,4,64
+Kawhi Leonard,56,0,5,1,1,Jump Shot,-168,240
+Kawhi Leonard,56,0,9,1,1,Jump Shot,-123,48
+Kawhi Leonard,56,0,11,1,1,Jump Shot,-150,62
+Kawhi Leonard,56,0,17,1,0,Jump Shot,-64,297
+Kawhi Leonard,56,0,19,1,1,Jump Shot,-166,237
+Kawhi Leonard,56,0,30,2,0,Jump Shot,-95,114
+Kawhi Leonard,56,0,28,3,0,Jump Shot,-234,37
+Kawhi Leonard,56,0,28,3,1,Dunk,6,62
+Kawhi Leonard,56,0,25,3,1,Jump Shot,100,135
+Kawhi Leonard,56,0,26,4,0,Jump Shot,-19,258
+Kawhi Leonard,56,0,26,4,0,Special Jump Shot,-133,78
+Kawhi Leonard,57,1,-2,1,1,Dunk,0,51
+Kawhi Leonard,57,1,-6,1,1,Special Jump Shot,125,185
+Kawhi Leonard,57,1,-7,1,1,Layup,-8,59
+Kawhi Leonard,57,1,-16,2,0,Jump Shot,201,195
+Kawhi Leonard,57,1,-16,2,1,Special Jump Shot,159,114
+Kawhi Leonard,57,1,-13,3,0,Special Jump Shot,86,65
+Kawhi Leonard,57,1,-15,4,1,Jump Shot,-105,207
+Kawhi Leonard,57,1,-17,4,1,Special Jump Shot,31,92
+Kawhi Leonard,58,1,-1,1,0,Layup,18,47
+Kawhi Leonard,58,1,-1,1,0,Special Jump Shot,122,203
+Kawhi Leonard,58,1,-3,1,1,Layup,9,65
+Kawhi Leonard,58,1,-26,2,0,Jump Shot,-141,40
+Kawhi Leonard,58,1,-27,2,1,Dunk,-2,48
+Kawhi Leonard,58,1,-29,3,1,Jump Shot,40,124
+Kawhi Leonard,58,1,-27,3,0,Jump Shot,133,86
+Kawhi Leonard,59,1,0,1,0,Special Jump Shot,10,125
+Kawhi Leonard,59,1,-6,1,1,Dunk,9,37
+Kawhi Leonard,59,1,-5,1,0,Jump Shot,84,78
+Kawhi Leonard,59,1,-5,2,1,Jump Shot,6,296
+Kawhi Leonard,59,1,-14,4,1,Special Jump Shot,-73,286
+Kawhi Leonard,59,1,-16,4,1,Special Jump Shot,92,193
+Kawhi Leonard,59,1,-14,4,0,Jump Shot,136,181
+Kawhi Leonard,59,1,-16,4,0,Layup,-18,51
+Kawhi Leonard,60,0,2,1,1,Dunk,-8,65
+Kawhi Leonard,60,0,2,1,1,Layup,10,81
+Kawhi Leonard,60,0,0,2,1,Jump Shot,9,203
+Kawhi Leonard,60,0,2,2,1,Layup,21,67
+Kawhi Leonard,60,0,2,2,0,Jump Shot,-128,275
+Kawhi Leonard,60,0,1,3,0,Layup,-4,67
+Kawhi Leonard,60,0,-1,3,0,Special Jump Shot,-11,152
+Kawhi Leonard,60,0,2,3,1,Layup,0,83
+Kawhi Leonard,60,0,2,3,1,Jump Shot,-37,220
+Kawhi Leonard,60,0,10,4,1,Jump Shot,24,319
+Kawhi Leonard,60,0,17,4,1,Layup,-7,81
+Kawhi Leonard,61,0,0,1,0,Jump Shot,226,158
+Kawhi Leonard,61,0,2,1,1,Jump Shot,-8,157
+Kawhi Leonard,61,0,7,1,1,Jump Shot,196,204
+Kawhi Leonard,61,0,6,1,0,Jump Shot,106,199
+Kawhi Leonard,61,0,4,2,0,Jump Shot,-98,286
+Kawhi Leonard,61,0,10,2,1,Hook,-2,128
+Kawhi Leonard,61,0,9,2,0,Jump Shot,149,91
+Kawhi Leonard,61,0,13,3,1,Jump Shot,-174,229
+Kawhi Leonard,61,0,14,4,0,Jump Shot,40,305
+Kawhi Leonard,61,0,12,4,0,Jump Shot,78,292
+Kawhi Leonard,62,0,6,1,1,Special Jump Shot,-158,264
+Kawhi Leonard,62,0,6,1,1,Special Jump Shot,86,201
+Kawhi Leonard,62,0,14,2,0,Special Jump Shot,-134,173
+Kawhi Leonard,62,0,4,2,0,Jump Shot,-141,177
+Kawhi Leonard,62,0,1,3,0,Hook,53,75
+Kawhi Leonard,62,0,3,3,0,Jump Shot,0,179
+Kawhi Leonard,62,0,9,4,1,Hook,-15,135
+Kawhi Leonard,62,0,9,4,0,Jump Shot,-27,64
+Kawhi Leonard,62,0,11,4,0,Special Jump Shot,129,179
+Kawhi Leonard,62,0,11,4,1,Special Jump Shot,45,119
+Kawhi Leonard,62,0,13,4,1,Special Jump Shot,231,40
+Kawhi Leonard,62,0,11,4,0,Jump Shot,-152,255
+Kawhi Leonard,62,1,0,1,1,Jump Shot,165,125
+Kawhi Leonard,62,1,-6,1,1,Dunk,10,51
+Kawhi Leonard,62,1,-1,1,0,Special Jump Shot,-224,165
+Kawhi Leonard,62,1,-4,1,1,Layup,2,61
+Kawhi Leonard,62,1,-4,1,1,Tip,-5,50
+Kawhi Leonard,62,1,-16,3,0,Jump Shot,144,177
+Kawhi Leonard,62,1,-15,3,1,Jump Shot,97,199
+Kawhi Leonard,62,1,-13,3,0,Jump Shot,-231,50
+Kawhi Leonard,62,1,-16,3,1,Jump Shot,231,59
+Kawhi Leonard,63,1,-1,1,1,Jump Shot,-231,53
+Kawhi Leonard,63,1,-3,1,1,Jump Shot,72,229
+Kawhi Leonard,63,1,-18,2,0,Layup,6,40
+Kawhi Leonard,63,1,-21,3,1,Layup,17,45
+Kawhi Leonard,63,1,-24,3,0,Jump Shot,6,91
+Kawhi Leonard,63,1,-22,3,0,Layup,7,39
+Kawhi Leonard,63,1,-16,3,0,Layup,10,53
+Kawhi Leonard,63,1,-5,4,0,Jump Shot,189,209
+Kawhi Leonard,64,0,-2,1,0,Jump Shot,157,75
+Kawhi Leonard,64,0,-2,1,1,Dunk,2,57
+Kawhi Leonard,64,0,9,2,1,Layup,-16,54
+Kawhi Leonard,64,0,11,2,1,Jump Shot,-224,50
+Kawhi Leonard,64,0,15,2,0,Jump Shot,236,53
+Kawhi Leonard,64,0,15,2,0,Special Jump Shot,-139,72
+Kawhi Leonard,64,0,17,2,1,Layup,12,50
+Kawhi Leonard,64,0,20,2,1,Jump Shot,-171,228
+Kawhi Leonard,64,0,18,3,0,Special Jump Shot,47,98
+Kawhi Leonard,64,0,21,3,1,Layup,9,61
+Kawhi Leonard,64,0,21,3,0,Jump Shot,-21,225
+Kawhi Leonard,65,1,-1,1,1,Jump Shot,234,119
+Kawhi Leonard,65,1,-11,2,0,Jump Shot,-116,146
+Kawhi Leonard,65,1,-13,2,0,Layup,18,56
+Kawhi Leonard,65,1,-12,2,1,Layup,-10,39
+Kawhi Leonard,65,1,-15,2,1,Jump Shot,233,98
+Kawhi Leonard,65,1,-15,2,0,Jump Shot,192,206
+Kawhi Leonard,65,1,-18,3,1,Dunk,1,51
+Kawhi Leonard,65,1,-18,3,0,Jump Shot,-199,209
+Kawhi Leonard,65,1,-22,3,0,Layup,18,54
+Kawhi Leonard,66,0,2,1,0,Jump Shot,118,64
+Kawhi Leonard,66,0,3,1,0,Layup,18,54
+Kawhi Leonard,66,0,5,1,1,Jump Shot,-27,294
+Kawhi Leonard,66,0,16,3,1,Jump Shot,230,166
+Kawhi Leonard,66,0,9,3,0,Jump Shot,236,67
+Kawhi Leonard,66,0,14,3,1,Tip,18,53
+Kawhi Leonard,66,0,10,4,0,Jump Shot,220,185
+Kawhi Leonard,66,0,16,4,1,Dunk,2,72
+Kawhi Leonard,66,0,20,4,1,Dunk,0,64
+Kawhi Leonard,67,1,-2,1,0,Jump Shot,-179,228
+Kawhi Leonard,67,1,-2,1,0,Layup,-4,51
+Kawhi Leonard,67,1,-10,1,1,Dunk,7,53
+Kawhi Leonard,67,1,-13,1,0,Jump Shot,215,171
+Kawhi Leonard,67,1,-16,2,1,Layup,-5,45
+Kawhi Leonard,67,1,-13,2,0,Jump Shot,174,223
+Kawhi Leonard,67,1,-18,3,1,Jump Shot,28,97
+Kawhi Leonard,67,1,-9,3,1,Jump Shot,-125,48
+Kawhi Leonard,67,1,-11,3,0,Layup,-13,67
+Kawhi Leonard,76,0,2,1,1,Dunk,0,56
+Kawhi Leonard,76,0,-1,1,0,Jump Shot,-71,277
+Kawhi Leonard,76,0,4,1,1,Jump Shot,168,100
+Kawhi Leonard,76,0,8,1,0,Special Jump Shot,-82,158
+Kawhi Leonard,76,0,9,1,1,Jump Shot,-161,151
+Kawhi Leonard,76,0,-6,3,1,Jump Shot,-122,266
+Kawhi Leonard,76,0,-6,3,1,Hook,-60,113
+Kawhi Leonard,76,0,-10,3,0,Special Jump Shot,6,86
+Kawhi Leonard,76,0,-10,3,0,Layup,6,57
+Kawhi Leonard,76,0,-9,3,0,Special Jump Shot,86,87
+Kawhi Leonard,76,0,-12,4,0,Jump Shot,152,53
+Kawhi Leonard,76,0,-12,4,1,Special Jump Shot,42,92
+Kawhi Leonard,76,0,-12,4,1,Special Jump Shot,-86,206
+Kawhi Leonard,76,0,-10,4,1,Dunk,-4,54
+Kawhi Leonard,76,0,-10,4,0,Jump Shot,97,275
+Kawhi Leonard,76,1,0,1,1,Jump Shot,136,204
+Kawhi Leonard,76,1,-8,1,1,Special Jump Shot,29,195
+Kawhi Leonard,76,1,-13,2,1,Jump Shot,162,158
+Kawhi Leonard,76,1,-13,2,1,Layup,12,50
+Kawhi Leonard,76,1,-15,2,1,Special Jump Shot,163,152
+Kawhi Leonard,76,1,-13,2,1,Layup,15,53
+Kawhi Leonard,76,1,-16,2,1,Jump Shot,159,272
+Kawhi Leonard,76,1,-20,3,0,Jump Shot,132,91
+Kawhi Leonard,76,1,-20,3,1,Jump Shot,69,124
+Kawhi Leonard,76,1,-24,3,1,Jump Shot,-2,229
+Kawhi Leonard,76,1,-23,3,1,Special Jump Shot,50,64
+Kawhi Leonard,76,1,-15,4,1,Jump Shot,-147,121
+Kawhi Leonard,76,1,-18,4,1,Jump Shot,241,110
+Kawhi Leonard,76,0,10,1,1,Jump Shot,92,56
+Kawhi Leonard,76,0,11,1,1,Jump Shot,106,274
+Kawhi Leonard,76,0,9,1,0,Tip,0,69
+Kawhi Leonard,76,0,9,1,0,Jump Shot,228,54
+Kawhi Leonard,76,0,-6,2,0,Jump Shot,100,231
+Kawhi Leonard,76,0,-1,2,1,Layup,12,47
+Kawhi Leonard,76,0,3,2,0,Jump Shot,173,225
+Kawhi Leonard,76,0,4,3,1,Dunk,1,51
+Kawhi Leonard,76,0,5,3,0,Jump Shot,-223,53
+Kawhi Leonard,76,0,5,3,0,Layup,13,61
+Kawhi Leonard,76,0,10,3,0,Special Jump Shot,106,72
+Kawhi Leonard,76,0,10,4,0,Jump Shot,-134,251
+Kawhi Leonard,76,0,11,4,0,Hook,81,83
+Kawhi Leonard,76,0,9,4,1,Jump Shot,-224,53
+Kawhi Leonard,76,1,2,1,1,Jump Shot,-180,218
+Kawhi Leonard,76,1,2,1,0,Layup,15,45
+Kawhi Leonard,76,1,-2,1,1,Jump Shot,-144,87
+Kawhi Leonard,76,1,8,1,0,Jump Shot,165,179
+Kawhi Leonard,76,1,10,1,0,Layup,17,51
+Kawhi Leonard,76,1,12,1,0,Jump Shot,59,116
+Kawhi Leonard,76,1,12,1,0,Layup,-4,78
+Kawhi Leonard,76,1,4,3,1,Jump Shot,127,62
+Kawhi Leonard,76,1,2,3,1,Layup,0,42
+Kawhi Leonard,76,1,0,4,1,Jump Shot,-93,210
+Kawhi Leonard,76,1,-2,4,1,Jump Shot,18,209
+Kawhi Leonard,76,1,-2,4,1,Jump Shot,69,289
+Kawhi Leonard,76,1,-3,4,0,Jump Shot,-220,163
+Kawhi Leonard,152,1,1,1,0,Jump Shot,-133,264
+Kawhi Leonard,152,1,2,1,0,Jump Shot,-234,44
+Kawhi Leonard,152,1,11,1,1,Special Jump Shot,111,199
+Kawhi Leonard,152,1,10,1,1,Jump Shot,193,215
+Kawhi Leonard,152,1,7,2,1,Special Jump Shot,-144,37
+Kawhi Leonard,152,1,5,2,1,Special Jump Shot,42,261
+Kawhi Leonard,152,1,0,2,0,Jump Shot,9,299
+Kawhi Leonard,152,1,0,3,0,Jump Shot,-27,192
+Kawhi Leonard,152,1,6,3,1,Jump Shot,130,253
+Kawhi Leonard,152,1,5,3,1,Jump Shot,-125,127
+Lebron James,152,1,5,1,0,Special Jump Shot,97,157
+Lebron James,152,1,7,1,0,Jump Shot,108,223
+Lebron James,152,1,3,1,1,Jump Shot,-198,95
+Lebron James,152,1,-2,1,0,Layup,21,57
+Lebron James,152,1,-16,2,1,Layup,15,67
+Lebron James,152,1,-21,2,1,Layup,1,53
+Lebron James,152,1,-19,3,0,Jump Shot,-24,228
+Lebron James,152,1,-21,3,0,Jump Shot,159,256
+Lebron James,152,1,-18,3,0,Layup,12,59
+Lebron James,152,1,-16,4,1,Layup,-8,57
+Lebron James,0,0,-2,1,0,Jump Shot,-164,48
+Lebron James,0,0,-17,1,1,Special Jump Shot,-92,64
+Lebron James,0,0,-19,1,1,Layup,21,61
+Lebron James,0,0,-17,1,1,Jump Shot,-228,61
+Lebron James,0,0,-11,2,1,Layup,-5,65
+Lebron James,0,0,-7,2,1,Layup,-8,64
+Lebron James,0,0,-1,3,1,Jump Shot,119,272
+Lebron James,0,0,-3,3,0,Jump Shot,-18,292
+Lebron James,0,0,4,3,1,Jump Shot,-150,245
+Lebron James,0,0,6,3,0,Jump Shot,-81,97
+Lebron James,0,0,6,4,0,Jump Shot,-4,80
+Lebron James,0,0,8,4,1,Alleyoop,2,50
+Lebron James,0,0,4,4,0,Jump Shot,-147,154
+Lebron James,0,0,-1,4,0,Jump Shot,-27,100
+Lebron James,0,0,-4,4,0,Jump Shot,-147,255
+Lebron James,0,0,-4,4,0,Jump Shot,141,272
+Lebron James,1,0,1,1,0,Jump Shot,-93,229
+Lebron James,1,0,-5,1,0,Special Jump Shot,-68,87
+Lebron James,1,0,-3,1,1,Layup,-16,51
+Lebron James,1,0,-3,2,1,Layup,26,65
+Lebron James,1,0,-5,2,0,Jump Shot,13,204
+Lebron James,1,0,-4,2,1,Alleyoop,-2,59
+Lebron James,1,0,0,2,1,Alleyoop,-18,56
+Lebron James,1,0,-3,3,0,Jump Shot,97,225
+Lebron James,1,0,-5,3,0,Special Jump Shot,-95,184
+Lebron James,1,0,-14,3,0,Jump Shot,2,300
+Lebron James,1,0,-12,3,1,Layup,-16,61
+Lebron James,1,0,-9,4,1,Jump Shot,0,92
+Lebron James,1,0,-8,4,1,Layup,-21,51
+Lebron James,1,0,-10,4,1,Layup,-15,56
+Lebron James,1,0,-10,4,0,Layup,-16,57
+Lebron James,1,0,-9,4,1,Layup,-19,53
+Lebron James,1,0,-10,4,1,Layup,0,65
+Lebron James,1,0,-1,4,1,Special Jump Shot,-223,34
+Lebron James,2,1,4,1,0,Special Jump Shot,0,69
+Lebron James,2,1,1,1,1,Layup,4,59
+Lebron James,2,1,-4,1,1,Jump Shot,-117,261
+Lebron James,2,1,-5,1,1,Jump Shot,-142,242
+Lebron James,2,1,-7,1,1,Layup,9,59
+Lebron James,2,1,-7,1,1,Jump Shot,-177,210
+Lebron James,2,1,-7,1,0,Jump Shot,2,207
+Lebron James,2,1,-9,2,0,Jump Shot,245,57
+Lebron James,2,1,-11,2,1,Dunk,-5,57
+Lebron James,2,1,-13,2,0,Special Jump Shot,-120,198
+Lebron James,2,1,-15,3,1,Layup,9,53
+Lebron James,2,1,-15,3,1,Jump Shot,-175,91
+Lebron James,2,1,-16,4,1,Layup,6,56
+Lebron James,2,1,-14,4,0,Jump Shot,154,255
+Lebron James,3,0,-5,1,1,Jump Shot,-32,61
+Lebron James,3,0,-7,1,1,Jump Shot,10,119
+Lebron James,3,0,-7,1,1,Hook,1,97
+Lebron James,3,0,-7,1,0,Hook,21,111
+Lebron James,3,0,-6,1,1,Layup,21,69
+Lebron James,3,0,-4,1,1,Tip,7,59
+Lebron James,3,0,-5,2,0,Layup,-16,59
+Lebron James,3,0,-2,2,1,Layup,24,64
+Lebron James,3,0,4,3,1,Layup,28,50
+Lebron James,3,0,7,3,1,Layup,-26,61
+Lebron James,3,0,8,3,0,Jump Shot,230,73
+Lebron James,3,0,8,3,1,Alleyoop,-2,65
+Lebron James,3,0,5,3,1,Layup,7,78
+Lebron James,3,0,2,3,0,Layup,-21,69
+Lebron James,3,0,16,4,1,Layup,-10,64
+Lebron James,3,0,14,4,0,Jump Shot,-29,206
+Lebron James,3,0,14,4,1,Jump Shot,-35,291
+Lebron James,3,0,11,4,0,Jump Shot,23,72
+Lebron James,3,0,11,4,0,Jump Shot,-11,304
+Lebron James,3,0,8,4,1,Layup,-19,65
+Lebron James,4,1,0,1,0,Jump Shot,53,138
+Lebron James,4,1,6,1,1,Hook,15,89
+Lebron James,4,1,2,1,1,Jump Shot,-190,220
+Lebron James,4,1,0,1,1,Dunk,-2,51
+Lebron James,4,1,0,2,0,Jump Shot,-34,223
+Lebron James,4,1,5,2,0,Special Jump Shot,18,146
+Lebron James,4,1,5,2,0,Jump Shot,176,240
+Lebron James,4,1,7,3,0,Special Jump Shot,119,57
+Lebron James,4,1,3,3,0,Jump Shot,110,275
+Lebron James,4,1,2,3,1,Layup,10,54
+Lebron James,4,1,-1,3,1,Layup,13,50
+Lebron James,4,1,-9,4,1,Layup,-7,61
+Lebron James,4,1,-8,4,0,Jump Shot,4,269
+Lebron James,5,1,1,1,1,Layup,-2,51
+Lebron James,5,1,1,1,1,Layup,6,56
+Lebron James,5,1,-1,1,1,Layup,20,54
+Lebron James,5,1,-3,1,0,Jump Shot,12,184
+Lebron James,5,1,-9,1,1,Hook,67,108
+Lebron James,5,1,-2,2,1,Special Jump Shot,2,236
+Lebron James,5,1,-3,3,0,Hook,-41,65
+Lebron James,5,1,-6,4,1,Layup,21,54
+Lebron James,5,1,-4,4,0,Hook,10,114
+Lebron James,5,1,-6,4,1,Layup,15,53
+Lebron James,5,1,-4,4,1,Special Jump Shot,-70,143
+Lebron James,5,1,-4,4,1,Jump Shot,86,233
+Lebron James,5,1,-4,4,0,Special Jump Shot,-108,176
+Lebron James,6,1,0,1,0,Layup,-11,62
+Lebron James,6,1,2,1,0,Jump Shot,9,113
+Lebron James,6,1,-5,1,1,Layup,-16,69
+Lebron James,6,1,-6,1,1,Layup,18,56
+Lebron James,6,1,-4,1,1,Layup,-27,72
+Lebron James,6,1,-10,1,1,Jump Shot,-78,67
+Lebron James,6,1,-8,1,0,Jump Shot,64,206
+Lebron James,6,1,-18,2,1,Special Jump Shot,42,95
+Lebron James,6,1,-11,2,1,Jump Shot,51,111
+Lebron James,6,1,-12,2,0,Layup,7,67
+Lebron James,6,1,-14,2,1,Alleyoop,6,59
+Lebron James,6,1,-11,2,0,Jump Shot,-112,210
+Lebron James,6,1,-13,3,1,Jump Shot,-11,307
+Lebron James,6,1,-16,3,1,Jump Shot,241,86
+Lebron James,6,1,-16,3,0,Jump Shot,-11,307
+Lebron James,6,1,-19,3,1,Jump Shot,239,67
+Lebron James,6,1,-21,3,1,Dunk,10,56
+Lebron James,6,1,-21,3,1,Special Jump Shot,-87,190
+Lebron James,6,1,-24,3,1,Jump Shot,152,259
+Lebron James,6,1,-24,3,0,Jump Shot,189,223
+Lebron James,6,1,-20,3,0,Jump Shot,13,297
+Lebron James,7,1,1,1,1,Special Jump Shot,-56,158
+Lebron James,7,1,4,1,0,Hook,59,116
+Lebron James,7,1,2,1,1,Layup,2,56
+Lebron James,7,1,5,1,0,Layup,1,69
+Lebron James,7,1,5,1,1,Layup,15,67
+Lebron James,7,1,2,1,1,Special Jump Shot,32,64
+Lebron James,7,1,0,1,1,Layup,-5,65
+Lebron James,7,1,-9,2,1,Layup,-18,69
+Lebron James,7,1,-12,2,1,Layup,-2,56
+Lebron James,7,1,-9,2,0,Jump Shot,108,203
+Lebron James,7,1,-13,3,1,Dunk,9,61
+Lebron James,7,1,-3,3,1,Jump Shot,-210,185
+Lebron James,7,1,-3,3,1,Special Jump Shot,-116,67
+Lebron James,7,1,-5,3,1,Special Jump Shot,-164,59
+Lebron James,7,1,-8,3,1,Special Jump Shot,-136,212
+Lebron James,7,1,-5,4,1,Jump Shot,-127,209
+Lebron James,7,1,-3,4,0,Layup,7,59
+Lebron James,7,1,-3,4,1,Special Jump Shot,92,166
+Lebron James,8,0,-1,1,1,Special Jump Shot,72,130
+Lebron James,8,0,3,1,1,Dunk,10,54
+Lebron James,8,0,3,1,0,Special Jump Shot,-97,91
+Lebron James,8,0,6,1,1,Layup,15,53
+Lebron James,8,0,5,1,0,Layup,-7,56
+Lebron James,8,0,7,1,1,Dunk,-4,61
+Lebron James,8,0,9,2,0,Layup,-11,61
+Lebron James,8,0,9,2,1,Layup,-1,45
+Lebron James,8,0,8,2,1,Alleyoop,12,56
+Lebron James,8,0,10,2,1,Jump Shot,0,102
+Lebron James,8,0,12,2,1,Layup,12,50
+Lebron James,8,0,0,3,0,Layup,-15,56
+Lebron James,8,0,2,3,1,Tip,-5,56
+Lebron James,8,0,5,3,1,Special Jump Shot,-87,198
+Lebron James,8,0,5,3,0,Jump Shot,-153,89
+Lebron James,8,0,8,3,1,Special Jump Shot,-150,92
+Lebron James,8,0,11,4,1,Layup,17,59
+Lebron James,8,0,9,4,1,Jump Shot,-82,220
+Lebron James,8,1,-1,1,0,Jump Shot,9,195
+Lebron James,8,1,1,1,0,Special Jump Shot,-157,53
+Lebron James,8,1,2,1,0,Layup,18,61
+Lebron James,8,1,4,2,1,Layup,10,67
+Lebron James,8,1,4,2,1,Jump Shot,-109,136
+Lebron James,8,1,2,2,1,Layup,7,65
+Lebron James,8,1,0,2,0,Layup,-1,54
+Lebron James,8,1,-2,2,1,Layup,7,47
+Lebron James,8,1,-5,2,0,Special Jump Shot,-76,89
+Lebron James,8,1,-3,2,0,Jump Shot,-48,242
+Lebron James,8,1,-3,2,1,Layup,12,61
+Lebron James,8,1,-14,3,1,Special Jump Shot,50,83
+Lebron James,8,1,-12,3,0,Jump Shot,-152,168
+Lebron James,8,0,10,1,1,Layup,17,62
+Lebron James,8,0,14,1,1,Layup,-4,73
+Lebron James,8,0,14,1,0,Special Jump Shot,31,244
+Lebron James,8,0,6,1,0,Special Jump Shot,157,83
+Lebron James,8,0,6,1,0,Tip,10,59
+Lebron James,8,0,5,2,1,Layup,9,67
+Lebron James,8,0,5,2,1,Dunk,6,61
+Lebron James,8,0,7,2,0,Layup,1,72
+Lebron James,8,0,6,3,0,Jump Shot,124,288
+Lebron James,8,0,18,3,0,Jump Shot,173,368
+Lebron James,8,0,22,3,1,Layup,-15,62
+Lebron James,10,1,1,1,0,Special Jump Shot,-103,62
+Lebron James,10,1,2,1,0,Layup,10,56
+Lebron James,10,1,2,1,1,Layup,7,56
+Lebron James,10,1,13,3,1,Jump Shot,-62,291
+Lebron James,10,1,13,3,0,Jump Shot,-109,275
+Lebron James,10,1,2,3,0,Jump Shot,97,286
+Lebron James,10,1,1,3,1,Jump Shot,-60,72
+Lebron James,10,1,5,3,0,Jump Shot,91,286
+Lebron James,10,1,2,4,0,Special Jump Shot,91,135
+Lebron James,10,1,2,4,1,Layup,7,62
+Lebron James,10,1,-2,4,1,Jump Shot,12,318
+Lebron James,10,1,-2,4,1,Special Jump Shot,-122,182
+Lebron James,12,1,-2,1,0,Jump Shot,-149,242
+Lebron James,12,1,-4,1,1,Alleyoop,1,57
+Lebron James,12,1,3,1,1,Layup,10,57
+Lebron James,12,1,0,1,1,Jump Shot,-108,277
+Lebron James,12,1,-5,2,1,Layup,7,56
+Lebron James,12,1,-3,2,1,Jump Shot,-150,244
+Lebron James,12,1,-5,3,1,Dunk,10,57
+Lebron James,12,1,-6,3,0,Jump Shot,189,228
+Lebron James,12,1,-8,3,1,Special Jump Shot,-56,113
+Lebron James,12,1,-6,3,1,Special Jump Shot,10,136
+Lebron James,12,1,-12,4,1,Special Jump Shot,-188,56
+Lebron James,12,1,-12,4,1,Special Jump Shot,-127,141
+Lebron James,12,1,-13,4,1,Special Jump Shot,-166,69
+Lebron James,13,0,-2,1,0,Special Jump Shot,144,187
+Lebron James,13,0,2,1,1,Dunk,-5,50
+Lebron James,13,0,5,2,1,Jump Shot,-183,114
+Lebron James,13,0,9,2,0,Layup,-2,53
+Lebron James,13,0,9,2,0,Jump Shot,73,72
+Lebron James,13,0,7,2,1,Dunk,13,37
+Lebron James,13,0,9,2,1,Layup,-4,50
+Lebron James,13,0,9,3,1,Layup,2,62
+Lebron James,13,0,9,3,0,Alleyoop,15,50
+Lebron James,13,0,11,3,1,Dunk,10,69
+Lebron James,13,0,9,3,0,Jump Shot,-150,310
+Lebron James,13,0,11,3,1,Jump Shot,64,226
+Lebron James,13,0,14,3,1,Jump Shot,72,291
+Lebron James,13,0,10,4,0,Jump Shot,146,256
+Lebron James,13,0,13,4,0,Jump Shot,160,62
+Lebron James,13,0,12,4,1,Special Jump Shot,-185,80
+Lebron James,13,0,11,4,0,Special Jump Shot,-161,111
+Lebron James,13,0,10,4,0,Special Jump Shot,-103,86
+Lebron James,13,0,8,1,1,Dunk,0,47
+Lebron James,13,0,10,2,1,Alleyoop,2,47
+Lebron James,13,0,11,2,1,Jump Shot,-171,228
+Lebron James,13,0,14,2,1,Alleyoop,-5,65
+Lebron James,13,0,17,3,1,Jump Shot,196,113
+Lebron James,13,0,20,3,1,Jump Shot,212,196
+Lebron James,13,0,16,3,0,Jump Shot,-168,234
+Lebron James,13,0,18,3,1,Alleyoop,28,51
+Lebron James,13,0,20,3,1,Dunk,0,57
+Lebron James,13,0,19,3,0,Jump Shot,-223,166
+Lebron James,13,0,16,3,0,Jump Shot,89,228
+Lebron James,13,0,14,3,0,Layup,34,59
+Lebron James,13,0,6,4,0,Jump Shot,-109,240
+Lebron James,13,0,5,4,1,Jump Shot,-225,152
+Lebron James,13,0,5,4,0,Jump Shot,-123,226
+Lebron James,13,0,7,4,1,Layup,-13,50
+Lebron James,15,1,-2,1,0,Jump Shot,-198,65
+Lebron James,15,1,0,1,0,Dunk,0,54
+Lebron James,15,1,-4,1,1,Layup,9,53
+Lebron James,15,1,-6,1,1,Special Jump Shot,59,124
+Lebron James,15,1,-8,2,1,Special Jump Shot,-123,67
+Lebron James,15,1,-8,2,1,Layup,-11,56
+Lebron James,15,1,-7,2,1,Special Jump Shot,-98,86
+Lebron James,15,1,1,2,0,Jump Shot,140,195
+Lebron James,15,1,5,3,0,Jump Shot,-205,181
+Lebron James,15,1,3,3,1,Layup,0,62
+Lebron James,15,1,10,4,1,Layup,-16,57
+Lebron James,15,1,6,4,1,Jump Shot,-231,65
+Lebron James,15,1,6,4,0,Jump Shot,-205,174
+Lebron James,16,1,7,1,0,Jump Shot,-144,187
+Lebron James,16,1,7,1,1,Hook,9,80
+Lebron James,16,1,10,1,0,Jump Shot,-128,261
+Lebron James,16,1,13,2,1,Layup,6,54
+Lebron James,16,1,13,2,0,Layup,15,67
+Lebron James,16,1,13,2,1,Jump Shot,234,103
+Lebron James,16,1,11,2,1,Layup,9,61
+Lebron James,16,1,11,2,1,Layup,13,51
+Lebron James,16,1,11,2,1,Layup,-13,57
+Lebron James,16,1,10,3,0,Jump Shot,-171,229
+Lebron James,16,1,17,3,0,Hook,-57,86
+Lebron James,16,1,12,3,1,Jump Shot,1,307
+Lebron James,16,1,3,4,1,Dunk,1,59
+Lebron James,16,1,3,4,0,Jump Shot,162,248
+Lebron James,16,0,2,1,1,Layup,13,57
+Lebron James,16,0,4,1,1,Layup,-7,75
+Lebron James,16,0,4,1,0,Jump Shot,-78,188
+Lebron James,16,0,-3,1,0,Jump Shot,-51,154
+Lebron James,16,0,-6,1,0,Jump Shot,-101,50
+Lebron James,16,0,-5,1,1,Layup,-17,54
+Lebron James,16,0,-6,1,0,Jump Shot,236,34
+Lebron James,16,0,-13,2,0,Jump Shot,193,162
+Lebron James,16,0,-16,2,1,Jump Shot,160,240
+Lebron James,16,0,-16,2,1,Layup,9,51
+Lebron James,16,0,-17,2,1,Layup,-15,54
+Lebron James,16,0,-16,2,0,Jump Shot,-168,229
+Lebron James,16,0,-20,3,1,Dunk,7,57
+Lebron James,16,0,-25,3,0,Jump Shot,-136,110
+Lebron James,16,0,-22,3,0,Layup,-10,57
+Lebron James,16,0,-22,3,0,Jump Shot,64,294
+Lebron James,16,0,-19,4,0,Jump Shot,-122,198
+Lebron James,17,0,3,1,1,Tip,0,57
+Lebron James,17,0,8,1,1,Dunk,2,48
+Lebron James,17,0,-2,1,0,Jump Shot,-177,173
+Lebron James,17,0,0,1,1,Special Jump Shot,51,70
+Lebron James,17,0,6,2,0,Special Jump Shot,-169,81
+Lebron James,17,0,6,2,1,Tip,4,64
+Lebron James,17,0,10,2,1,Dunk,7,48
+Lebron James,17,0,10,3,1,Layup,7,57
+Lebron James,17,0,11,3,1,Layup,-4,53
+Lebron James,17,0,12,3,1,Layup,10,45
+Lebron James,17,0,14,3,1,Alleyoop,1,54
+Lebron James,17,0,4,1,1,Layup,1,51
+Lebron James,17,0,11,1,1,Layup,6,50
+Lebron James,17,0,7,1,0,Jump Shot,-45,308
+Lebron James,17,0,7,2,1,Special Jump Shot,168,72
+Lebron James,17,0,6,2,1,Layup,12,59
+Lebron James,17,0,7,2,1,Special Jump Shot,91,94
+Lebron James,17,0,9,2,0,Jump Shot,73,203
+Lebron James,17,0,6,3,0,Layup,-5,50
+Lebron James,17,0,14,3,0,Tip,-8,53
+Lebron James,17,0,17,3,1,Layup,-4,53
+Lebron James,17,0,16,3,1,Layup,-4,51
+Lebron James,17,0,20,3,1,Special Jump Shot,165,169
+Lebron James,17,0,16,3,0,Jump Shot,230,102
+Lebron James,17,0,20,4,1,Layup,7,50
+Lebron James,17,0,20,4,1,Special Jump Shot,157,185
+Lebron James,17,0,2,1,0,Jump Shot,190,228
+Lebron James,17,0,0,1,0,Jump Shot,-160,44
+Lebron James,17,0,2,1,1,Layup,-5,53
+Lebron James,17,0,4,1,1,Hook,-5,113
+Lebron James,17,0,11,1,1,Layup,20,50
+Lebron James,17,0,9,2,0,Special Jump Shot,-117,56
+Lebron James,17,0,9,2,0,Layup,28,50
+Lebron James,17,0,13,2,1,Layup,10,48
+Lebron James,17,0,0,3,0,Jump Shot,-142,174
+Lebron James,17,0,2,3,1,Layup,-16,53
+Lebron James,17,0,-3,3,0,Jump Shot,241,94
+Lebron James,17,0,-4,3,0,Layup,4,47
+Lebron James,17,0,-4,4,0,Layup,12,62
+Lebron James,17,0,-5,4,1,Jump Shot,-240,44
+Lebron James,17,0,-5,4,0,Layup,21,50
+Lebron James,17,0,-5,4,0,Jump Shot,-24,297
+Lebron James,21,1,-1,1,1,Layup,17,53
+Lebron James,21,1,-2,1,1,Layup,-8,62
+Lebron James,21,1,1,1,1,Layup,17,53
+Lebron James,21,1,1,1,1,Layup,10,57
+Lebron James,21,1,-3,1,1,Dunk,2,56
+Lebron James,21,1,-16,2,1,Layup,12,59
+Lebron James,21,1,-17,3,0,Jump Shot,113,193
+Lebron James,21,1,-11,3,1,Layup,17,51
+Lebron James,21,1,0,4,1,Layup,-2,56
+Lebron James,21,1,1,4,0,Jump Shot,-175,229
+Lebron James,21,1,-2,4,1,Special Jump Shot,-35,80
+Lebron James,21,1,-6,4,0,Jump Shot,162,244
+Lebron James,22,1,-2,1,1,Hook,81,59
+Lebron James,22,1,1,1,0,Jump Shot,174,75
+Lebron James,22,1,-3,1,1,Dunk,0,62
+Lebron James,22,1,-7,1,1,Jump Shot,-131,110
+Lebron James,22,1,-6,1,0,Jump Shot,-89,72
+Lebron James,22,1,-6,1,1,Layup,2,59
+Lebron James,22,1,6,2,1,Dunk,-5,53
+Lebron James,22,1,-1,2,1,Dunk,20,51
+Lebron James,22,1,-1,2,0,Jump Shot,140,278
+Lebron James,22,1,1,3,1,Layup,-8,50
+Lebron James,22,1,-8,3,1,Dunk,-2,57
+Lebron James,22,1,-10,3,1,Jump Shot,-54,220
+Lebron James,22,1,-17,4,1,Layup,13,54
+Lebron James,22,1,-18,4,1,Jump Shot,-158,193
+Lebron James,22,1,-18,4,1,Layup,-13,53
+Lebron James,22,1,-18,4,1,Dunk,7,54
+Lebron James,22,1,0,1,0,Jump Shot,15,133
+Lebron James,22,1,-2,1,1,Dunk,13,51
+Lebron James,22,1,-3,1,1,Dunk,1,57
+Lebron James,22,1,10,2,0,Jump Shot,-180,210
+Lebron James,22,1,8,2,1,Special Jump Shot,2,103
+Lebron James,22,1,3,2,1,Special Jump Shot,-105,185
+Lebron James,22,1,3,2,1,Layup,-16,54
+Lebron James,22,1,5,2,0,Jump Shot,97,234
+Lebron James,22,1,11,3,0,Jump Shot,-38,84
+Lebron James,22,1,8,3,1,Jump Shot,-119,214
+Lebron James,22,1,6,3,1,Dunk,15,62
+Lebron James,22,1,5,4,0,Special Jump Shot,-57,152
+Lebron James,22,1,3,4,1,Jump Shot,-157,247
+Lebron James,22,1,3,4,0,Jump Shot,187,228
+Lebron James,23,1,0,1,1,Tip,7,53
+Lebron James,23,1,-4,1,1,Dunk,0,54
+Lebron James,23,1,-1,1,1,Special Jump Shot,-60,87
+Lebron James,23,1,0,1,1,Dunk,1,50
+Lebron James,23,1,1,2,0,Jump Shot,-144,278
+Lebron James,23,1,2,2,1,Tip,0,54
+Lebron James,23,1,2,2,1,Dunk,0,53
+Lebron James,23,1,-6,3,1,Jump Shot,42,296
+Lebron James,23,1,-1,3,0,Jump Shot,121,190
+Lebron James,23,1,-5,3,1,Layup,9,59
+Lebron James,23,1,-16,3,0,Layup,-2,64
+Lebron James,25,1,0,1,0,Jump Shot,-35,45
+Lebron James,25,1,-2,1,1,Layup,37,76
+Lebron James,25,1,-13,1,1,Dunk,2,59
+Lebron James,25,1,-12,1,1,Layup,12,51
+Lebron James,25,1,-6,1,0,Jump Shot,-128,259
+Lebron James,25,1,-7,1,1,Layup,20,54
+Lebron James,25,1,-11,2,1,Jump Shot,190,226
+Lebron James,25,1,-7,2,0,Special Jump Shot,-59,75
+Lebron James,25,1,-4,2,0,Jump Shot,-161,244
+Lebron James,25,1,-3,2,1,Layup,10,64
+Lebron James,25,1,-3,2,0,Jump Shot,-45,136
+Lebron James,25,1,0,2,0,Jump Shot,-100,128
+Lebron James,25,1,9,3,0,Jump Shot,124,152
+Lebron James,25,1,11,3,0,Layup,0,65
+Lebron James,25,1,11,3,0,Tip,3,51
+Lebron James,25,1,9,3,1,Tip,0,61
+Lebron James,25,1,7,3,1,Jump Shot,242,54
+Lebron James,25,1,6,3,0,Jump Shot,-215,204
+Lebron James,25,1,3,3,1,Tip,0,51
+Lebron James,25,1,6,3,0,Jump Shot,-142,264
+Lebron James,25,1,7,3,1,Layup,7,69
+Lebron James,25,1,0,4,1,Special Jump Shot,2,97
+Lebron James,25,1,-2,4,1,Hook,-51,76
+Lebron James,25,1,4,4,1,Jump Shot,212,210
+Lebron James,25,1,1,4,1,Jump Shot,-174,247
+Lebron James,25,1,1,4,1,Dunk,0,57
+Lebron James,25,1,-2,5,1,Jump Shot,-149,155
+Lebron James,25,1,1,5,0,Jump Shot,0,302
+Lebron James,25,0,-3,1,1,Alleyoop,10,64
+Lebron James,25,0,-4,1,1,Dunk,-10,84
+Lebron James,25,0,1,1,1,Alleyoop,12,75
+Lebron James,25,0,-9,1,0,Jump Shot,-149,270
+Lebron James,25,0,-6,1,1,Jump Shot,-89,222
+Lebron James,25,0,9,2,1,Alleyoop,18,81
+Lebron James,25,0,4,3,0,Jump Shot,239,69
+Lebron James,25,0,7,3,1,Dunk,7,57
+Lebron James,25,0,2,3,0,Special Jump Shot,130,155
+Lebron James,25,0,6,3,0,Jump Shot,-122,286
+Lebron James,25,0,2,3,0,Jump Shot,-59,316
+Lebron James,25,0,7,4,1,Layup,-13,75
+Lebron James,25,0,7,4,0,Jump Shot,168,34
+Lebron James,25,0,5,4,0,Jump Shot,-75,242
+Lebron James,27,0,0,1,1,Dunk,-8,67
+Lebron James,27,0,13,1,1,Special Jump Shot,-127,182
+Lebron James,27,0,15,1,1,Dunk,6,59
+Lebron James,27,0,17,1,0,Jump Shot,-38,310
+Lebron James,27,0,16,1,0,Jump Shot,-174,105
+Lebron James,27,0,12,1,1,Layup,34,53
+Lebron James,27,0,12,1,1,Layup,28,61
+Lebron James,27,0,9,2,1,Jump Shot,-46,72
+Lebron James,27,0,9,2,0,Special Jump Shot,56,70
+Lebron James,27,0,13,2,1,Jump Shot,234,83
+Lebron James,27,0,10,2,0,Jump Shot,-86,222
+Lebron James,27,0,9,3,0,Jump Shot,233,117
+Lebron James,27,0,10,3,1,Layup,26,57
+Lebron James,27,0,8,3,0,Jump Shot,-26,72
+Lebron James,27,0,-2,3,0,Jump Shot,-160,244
+Lebron James,27,0,1,4,0,Layup,-11,57
+Lebron James,27,0,3,4,0,Jump Shot,-105,207
+Lebron James,27,0,0,4,0,Jump Shot,-109,277
+Lebron James,27,0,-3,5,1,Layup,-13,70
+Lebron James,27,0,-5,5,1,Jump Shot,-4,302
+Lebron James,27,0,-4,5,1,Jump Shot,-235,70
+Lebron James,27,0,-3,5,1,Jump Shot,10,307
+Lebron James,27,0,-5,5,0,Jump Shot,171,244
+Lebron James,28,0,2,1,1,Layup,-27,56
+Lebron James,28,0,6,1,0,Jump Shot,174,169
+Lebron James,28,0,3,1,1,Jump Shot,-109,280
+Lebron James,28,0,4,1,1,Jump Shot,-201,201
+Lebron James,28,0,-6,2,0,Jump Shot,-168,233
+Lebron James,28,0,-9,2,0,Special Jump Shot,-153,343
+Lebron James,28,0,-2,3,0,Special Jump Shot,173,75
+Lebron James,28,0,2,3,1,Jump Shot,-158,242
+Lebron James,28,0,2,3,0,Jump Shot,185,223
+Lebron James,28,0,-2,3,0,Jump Shot,-153,103
+Lebron James,28,0,-1,3,1,Jump Shot,-97,289
+Lebron James,28,0,-3,3,1,Jump Shot,184,217
+Lebron James,28,0,-5,3,0,Special Jump Shot,193,223
+Lebron James,28,0,2,4,1,Jump Shot,-57,75
+Lebron James,28,0,1,4,1,Jump Shot,-155,132
+Lebron James,30,1,0,1,1,Alleyoop,4,48
+Lebron James,30,1,0,1,1,Jump Shot,121,225
+Lebron James,30,1,3,1,0,Jump Shot,-127,263
+Lebron James,30,1,0,2,1,Layup,4,59
+Lebron James,30,1,3,2,0,Jump Shot,-158,248
+Lebron James,30,1,1,2,1,Jump Shot,15,91
+Lebron James,30,1,6,2,0,Jump Shot,15,209
+Lebron James,30,1,4,2,0,Layup,15,67
+Lebron James,30,1,11,3,1,Layup,15,59
+Lebron James,30,1,12,3,1,Layup,9,53
+Lebron James,30,1,12,3,0,Jump Shot,136,269
+Lebron James,30,1,11,3,1,Special Jump Shot,-82,75
+Lebron James,30,1,6,4,1,Layup,-8,62
+Lebron James,30,1,8,4,0,Layup,9,57
+Lebron James,30,1,6,4,1,Jump Shot,34,302
+Lebron James,30,1,4,4,1,Jump Shot,-179,166
+Lebron James,30,0,2,1,0,Jump Shot,64,81
+Lebron James,30,0,4,1,0,Jump Shot,61,234
+Lebron James,30,0,3,1,0,Layup,-7,69
+Lebron James,30,0,3,1,0,Layup,18,65
+Lebron James,30,0,5,1,1,Layup,-7,73
+Lebron James,30,0,-1,2,0,Layup,-15,61
+Lebron James,30,0,-1,2,1,Layup,9,62
+Lebron James,30,0,-3,3,0,Jump Shot,-48,305
+Lebron James,30,0,-1,3,1,Layup,-11,67
+Lebron James,30,0,12,4,1,Jump Shot,73,244
+Lebron James,30,0,12,4,0,Special Jump Shot,159,86
+Lebron James,30,0,14,4,1,Layup,-5,61
+Lebron James,31,1,-4,1,1,Layup,-7,57
+Lebron James,31,1,-3,1,1,Alleyoop,2,48
+Lebron James,31,1,-2,1,0,Jump Shot,-97,95
+Lebron James,31,1,-7,1,1,Special Jump Shot,23,70
+Lebron James,31,1,-4,1,1,Jump Shot,-27,102
+Lebron James,31,1,0,2,0,Layup,18,51
+Lebron James,31,1,-2,2,1,Layup,-7,62
+Lebron James,31,1,-1,2,1,Special Jump Shot,40,78
+Lebron James,31,1,-1,2,1,Special Jump Shot,-62,69
+Lebron James,31,1,-3,3,1,Layup,17,57
+Lebron James,31,1,4,3,1,Layup,13,56
+Lebron James,31,1,-2,4,1,Jump Shot,13,229
+Lebron James,31,1,-4,4,1,Jump Shot,-146,162
+Lebron James,31,1,-4,4,0,Special Jump Shot,-163,64
+Lebron James,31,1,-6,4,1,Special Jump Shot,102,106
+Lebron James,31,1,-1,4,0,Jump Shot,-101,223
+Lebron James,31,1,-3,4,0,Layup,10,56
+Lebron James,31,1,-1,4,0,Special Jump Shot,95,190
+Lebron James,31,1,-3,1,1,Jump Shot,-163,250
+Lebron James,31,1,-5,1,1,Layup,-4,53
+Lebron James,31,1,-4,1,0,Jump Shot,234,102
+Lebron James,31,1,-4,1,1,Layup,-13,50
+Lebron James,31,1,-4,1,1,Layup,4,59
+Lebron James,31,1,0,1,0,Jump Shot,-98,218
+Lebron James,31,1,-1,1,0,Special Jump Shot,-175,78
+Lebron James,31,1,2,2,1,Alleyoop,-2,53
+Lebron James,31,1,4,2,1,Hook,-30,75
+Lebron James,31,1,4,2,0,Layup,2,54
+Lebron James,31,1,4,2,0,Tip,-4,50
+Lebron James,31,1,4,3,1,Alleyoop,1,51
+Lebron James,31,1,3,3,1,Jump Shot,198,217
+Lebron James,31,1,0,3,1,Jump Shot,-207,103
+Lebron James,31,1,-2,3,1,Layup,-5,54
+Lebron James,31,1,-2,3,0,Jump Shot,-201,51
+Lebron James,31,1,-7,3,1,Jump Shot,171,236
+Lebron James,31,1,-7,3,0,Jump Shot,48,326
+Lebron James,31,1,-7,3,1,Layup,2,57
+Lebron James,31,1,-18,4,0,Jump Shot,-169,226
+Lebron James,31,1,-20,4,1,Layup,18,59
+Lebron James,33,0,0,1,1,Jump Shot,97,231
+Lebron James,33,0,3,1,1,Special Jump Shot,-168,202
+Lebron James,33,0,5,1,0,Jump Shot,-174,218
+Lebron James,33,0,3,1,0,Jump Shot,-180,78
+Lebron James,33,0,3,1,1,Jump Shot,-224,23
+Lebron James,33,0,6,1,1,Alleyoop,0,59
+Lebron James,33,0,1,2,1,Layup,21,51
+Lebron James,33,0,5,3,1,Layup,-8,59
+Lebron James,33,0,6,3,1,Dunk,0,61
+Lebron James,33,0,6,3,0,Jump Shot,217,169
+Lebron James,33,0,3,3,1,Dunk,-4,53
+Lebron James,33,0,-2,3,0,Jump Shot,-217,177
+Lebron James,33,0,-4,3,1,Layup,0,57
+Lebron James,33,0,-8,4,0,Layup,-16,50
+Lebron James,33,0,-7,4,1,Layup,-7,51
+Lebron James,33,0,-7,4,1,Jump Shot,-138,67
+Lebron James,33,0,-10,4,1,Special Jump Shot,-43,53
+Lebron James,33,0,0,1,1,Special Jump Shot,64,84
+Lebron James,33,0,-3,1,1,Layup,-21,61
+Lebron James,33,0,-1,1,1,Layup,0,65
+Lebron James,33,0,1,1,1,Jump Shot,-7,304
+Lebron James,33,0,2,1,1,Jump Shot,-49,311
+Lebron James,33,0,-1,1,0,Jump Shot,-116,278
+Lebron James,33,0,-1,2,0,Layup,18,56
+Lebron James,33,0,-2,2,0,Jump Shot,-133,181
+Lebron James,33,0,-8,2,0,Tip,-23,51
+Lebron James,33,0,-6,3,1,Jump Shot,-5,198
+Lebron James,33,0,-9,3,0,Special Jump Shot,144,147
+Lebron James,33,0,-10,3,1,Layup,0,69
+Lebron James,33,0,-10,4,1,Layup,-14,69
+Lebron James,33,0,-5,4,1,Layup,20,57
+Lebron James,33,0,-2,4,0,Jump Shot,-15,304
+Lebron James,33,0,-2,4,0,Jump Shot,-131,253
+Lebron James,33,0,-3,4,1,Tip,0,51
+Lebron James,33,0,-1,4,1,Layup,-23,54
+Lebron James,33,0,-1,4,0,Special Jump Shot,77,102
+Lebron James,33,0,1,4,1,Special Jump Shot,-76,132
+Lebron James,35,0,0,1,0,Layup,7,54
+Lebron James,35,0,-3,1,1,Jump Shot,45,76
+Lebron James,35,0,-4,1,1,Jump Shot,-122,214
+Lebron James,35,0,-6,1,0,Jump Shot,-231,87
+Lebron James,35,0,-32,2,0,Jump Shot,-155,108
+Lebron James,35,0,-32,2,0,Jump Shot,182,237
+Lebron James,35,0,-28,2,1,Alleyoop,2,51
+Lebron James,35,0,-24,2,1,Special Jump Shot,45,86
+Lebron James,35,0,-23,2,1,Special Jump Shot,-109,203
+Lebron James,35,0,-25,3,0,Jump Shot,-229,67
+Lebron James,35,0,-24,3,0,Jump Shot,73,304
+Lebron James,35,0,-23,3,1,Dunk,2,61
+Lebron James,35,0,-21,3,1,Dunk,-10,56
+Lebron James,35,0,-11,4,1,Tip,9,61
+Lebron James,35,0,-11,4,0,Jump Shot,94,248
+Lebron James,35,0,-12,4,0,Jump Shot,-134,209
+Lebron James,35,0,-11,4,0,Layup,-10,59
+Lebron James,35,0,-13,4,0,Jump Shot,-68,54
+Lebron James,36,0,2,1,0,Layup,15,50
+Lebron James,36,0,3,1,0,Jump Shot,132,48
+Lebron James,36,0,7,1,1,Dunk,4,50
+Lebron James,36,0,9,1,1,Layup,9,47
+Lebron James,36,0,18,3,0,Jump Shot,9,292
+Lebron James,36,0,20,3,1,Layup,-7,57
+Lebron James,36,0,18,4,0,Jump Shot,21,91
+Lebron James,36,0,16,4,0,Layup,-10,70
+Lebron James,36,0,17,4,1,Special Jump Shot,-41,56
+Lebron James,36,0,19,4,1,Special Jump Shot,-122,136
+Lebron James,36,0,17,4,1,Jump Shot,-62,266
+Lebron James,36,0,17,4,1,Alleyoop,2,53
+Lebron James,36,0,15,4,0,Jump Shot,136,135
+Lebron James,37,0,5,1,1,Layup,-10,56
+Lebron James,37,0,7,1,1,Layup,-19,50
+Lebron James,37,0,6,1,1,Special Jump Shot,-56,111
+Lebron James,37,0,4,1,1,Special Jump Shot,-114,70
+Lebron James,37,0,6,1,1,Special Jump Shot,-86,110
+Lebron James,37,0,0,1,0,Jump Shot,152,264
+Lebron James,37,0,-2,1,0,Jump Shot,-54,206
+Lebron James,37,0,-4,2,0,Jump Shot,-136,127
+Lebron James,37,0,-9,2,0,Jump Shot,-87,220
+Lebron James,37,0,-7,3,0,Jump Shot,-101,310
+Lebron James,37,0,-6,3,0,Jump Shot,-41,61
+Lebron James,37,0,-6,3,0,Layup,-8,59
+Lebron James,37,0,-4,3,0,Jump Shot,18,181
+Lebron James,37,0,-6,3,0,Alleyoop,-10,56
+Lebron James,37,0,-4,3,1,Tip,1,50
+Lebron James,37,0,-1,3,1,Layup,-8,53
+Lebron James,37,0,1,4,1,Dunk,0,53
+Lebron James,37,0,1,4,1,Dunk,1,50
+Lebron James,37,0,-1,4,0,Jump Shot,81,203
+Lebron James,37,0,0,4,1,Special Jump Shot,18,174
+Lebron James,37,0,2,4,1,Jump Shot,124,210
+Lebron James,37,0,0,4,0,Jump Shot,-75,322
+Lebron James,37,0,0,4,0,Jump Shot,147,146
+Lebron James,37,0,5,5,1,Layup,15,53
+Lebron James,37,0,6,5,1,Layup,-7,53
+Lebron James,38,0,-3,1,1,Alleyoop,-4,47
+Lebron James,38,0,-2,1,0,Jump Shot,-106,247
+Lebron James,38,0,1,1,1,Jump Shot,236,122
+Lebron James,38,0,-1,1,0,Special Jump Shot,-155,102
+Lebron James,38,0,-3,1,1,Dunk,-4,51
+Lebron James,38,0,-5,1,0,Jump Shot,-127,264
+Lebron James,38,0,-3,1,1,Special Jump Shot,-136,124
+Lebron James,38,0,-10,2,1,Layup,21,50
+Lebron James,38,0,-8,2,0,Layup,-5,53
+Lebron James,38,0,-4,2,0,Layup,-4,54
+Lebron James,38,0,-7,2,0,Special Jump Shot,-51,97
+Lebron James,38,0,-7,3,0,Jump Shot,-19,236
+Lebron James,38,0,-7,3,1,Layup,13,83
+Lebron James,38,0,-2,3,1,Layup,6,53
+Lebron James,38,0,-2,3,0,Jump Shot,231,65
+Lebron James,38,0,-3,3,1,Special Jump Shot,43,78
+Lebron James,38,0,0,4,1,Jump Shot,214,182
+Lebron James,38,0,3,4,1,Jump Shot,206,201
+Lebron James,38,0,0,4,0,Jump Shot,130,263
+Lebron James,38,0,-3,4,1,Layup,21,56
+Lebron James,38,0,-5,4,0,Jump Shot,-67,281
+Lebron James,38,1,-2,1,1,Layup,0,57
+Lebron James,38,1,1,1,0,Jump Shot,201,218
+Lebron James,38,1,-3,1,1,Dunk,10,53
+Lebron James,38,1,-5,1,0,Alleyoop,18,67
+Lebron James,38,1,-7,1,1,Layup,13,62
+Lebron James,38,1,-7,1,0,Special Jump Shot,-157,56
+Lebron James,38,1,-13,1,1,Jump Shot,-155,188
+Lebron James,38,1,-7,2,0,Jump Shot,61,113
+Lebron James,38,1,-11,2,1,Dunk,4,53
+Lebron James,38,1,-9,2,0,Layup,13,61
+Lebron James,38,1,-11,2,1,Tip,6,59
+Lebron James,38,1,-8,3,0,Jump Shot,192,215
+Lebron James,38,1,-6,3,1,Jump Shot,-93,53
+Lebron James,38,1,-6,3,1,Jump Shot,-81,188
+Lebron James,38,1,-8,3,1,Special Jump Shot,-116,128
+Lebron James,38,1,-6,3,0,Jump Shot,236,80
+Lebron James,38,1,-4,3,0,Jump Shot,-100,431
+Lebron James,38,1,-2,4,1,Layup,2,59
+Lebron James,38,1,0,4,0,Dunk,7,53
+Lebron James,39,1,-8,1,1,Layup,-7,67
+Lebron James,39,1,-5,1,1,Jump Shot,-92,64
+Lebron James,39,1,-9,2,1,Layup,0,62
+Lebron James,39,1,-9,2,0,Special Jump Shot,-18,117
+Lebron James,39,1,-13,2,1,Layup,-16,67
+Lebron James,39,1,-11,2,0,Special Jump Shot,-141,78
+Lebron James,39,1,-13,2,1,Layup,-5,62
+Lebron James,39,1,-16,3,1,Jump Shot,168,237
+Lebron James,39,1,-13,3,0,Special Jump Shot,160,80
+Lebron James,39,1,-15,3,1,Dunk,9,64
+Lebron James,39,1,-13,3,0,Special Jump Shot,-198,193
+Lebron James,39,1,-7,4,1,Layup,23,56
+Lebron James,39,1,-7,4,1,Jump Shot,189,220
+Lebron James,39,1,-5,4,0,Jump Shot,-105,269
+Lebron James,40,1,-5,1,1,Layup,7,50
+Lebron James,40,1,-5,1,0,Jump Shot,114,209
+Lebron James,40,1,-6,1,1,Layup,23,54
+Lebron James,40,1,-8,1,0,Special Jump Shot,13,139
+Lebron James,40,1,-6,1,0,Jump Shot,130,367
+Lebron James,40,1,-1,2,0,Jump Shot,4,304
+Lebron James,40,1,-3,2,1,Layup,13,56
+Lebron James,40,1,-2,2,0,Special Jump Shot,-7,141
+Lebron James,40,1,-4,2,1,Special Jump Shot,-103,113
+Lebron James,40,1,-7,2,1,Jump Shot,133,267
+Lebron James,40,1,-5,2,0,Jump Shot,155,193
+Lebron James,40,1,-8,3,1,Layup,10,53
+Lebron James,40,1,-4,3,0,Jump Shot,75,105
+Lebron James,40,1,-6,3,1,Dunk,9,59
+Lebron James,40,1,-13,3,1,Jump Shot,-190,53
+Lebron James,42,0,-2,1,1,Layup,10,59
+Lebron James,42,0,-2,1,0,Jump Shot,185,56
+Lebron James,42,0,2,1,1,Layup,17,62
+Lebron James,42,0,2,1,0,Jump Shot,-24,84
+Lebron James,42,0,4,1,1,Layup,-2,53
+Lebron James,42,0,7,1,1,Jump Shot,-62,294
+Lebron James,42,0,7,1,0,Jump Shot,-73,288
+Lebron James,42,0,14,2,1,Layup,10,67
+Lebron James,42,0,11,2,1,Layup,17,59
+Lebron James,42,0,4,3,1,Layup,-5,51
+Lebron James,42,0,6,3,1,Layup,12,61
+Lebron James,42,0,6,3,0,Jump Shot,125,225
+Lebron James,42,0,9,3,1,Layup,-18,72
+Lebron James,42,0,12,3,0,Jump Shot,36,267
+Lebron James,42,0,9,4,0,Special Jump Shot,53,75
+Lebron James,42,0,11,4,0,Jump Shot,189,229
+Lebron James,42,0,13,4,1,Dunk,7,59
+Lebron James,42,0,15,4,1,Special Jump Shot,118,182
+Lebron James,42,0,16,4,1,Special Jump Shot,-108,103
+Lebron James,42,0,16,4,1,Special Jump Shot,198,44
+Lebron James,42,0,15,4,0,Special Jump Shot,-177,50
+Lebron James,44,1,-3,1,1,Layup,17,64
+Lebron James,44,1,-6,1,1,Special Jump Shot,9,119
+Lebron James,44,1,-2,2,1,Special Jump Shot,119,122
+Lebron James,44,1,-4,2,1,Alleyoop,4,54
+Lebron James,44,1,-2,2,0,Layup,-2,51
+Lebron James,44,1,-4,2,0,Jump Shot,135,264
+Lebron James,44,1,-9,2,1,Alleyoop,9,54
+Lebron James,44,1,-6,2,0,Jump Shot,-43,450
+Lebron James,44,1,-6,3,0,Special Jump Shot,-138,70
+Lebron James,44,1,-4,3,0,Special Jump Shot,100,110
+Lebron James,44,1,-7,3,1,Dunk,7,51
+Lebron James,44,1,-6,3,1,Layup,-23,80
+Lebron James,44,1,-8,3,0,Jump Shot,-81,234
+Lebron James,44,1,-5,3,0,Jump Shot,-196,188
+Lebron James,44,1,-7,3,1,Jump Shot,168,176
+Lebron James,44,1,-6,4,0,Layup,1,69
+Lebron James,44,1,-12,4,1,Special Jump Shot,67,157
+Lebron James,44,1,-10,4,0,Special Jump Shot,45,199
+Lebron James,44,1,-6,4,0,Jump Shot,130,223
+Lebron James,45,0,6,1,1,Dunk,0,72
+Lebron James,45,0,4,1,1,Dunk,21,72
+Lebron James,45,0,9,1,1,Layup,13,57
+Lebron James,45,0,10,1,0,Jump Shot,84,292
+Lebron James,45,0,10,1,0,Jump Shot,-123,207
+Lebron James,45,0,12,2,1,Layup,15,84
+Lebron James,45,0,8,2,0,Special Jump Shot,-21,67
+Lebron James,45,0,10,2,1,Layup,21,67
+Lebron James,45,0,9,2,0,Special Jump Shot,34,87
+Lebron James,45,0,11,2,1,Jump Shot,-245,56
+Lebron James,45,0,8,2,0,Special Jump Shot,119,326
+Lebron James,45,0,10,3,1,Jump Shot,-120,278
+Lebron James,45,0,5,3,0,Jump Shot,230,34
+Lebron James,45,0,8,3,1,Alleyoop,13,65
+Lebron James,45,0,12,3,1,Layup,26,69
+Lebron James,45,0,16,3,0,Jump Shot,-16,92
+Lebron James,45,0,14,3,0,Layup,-13,59
+Lebron James,45,0,14,3,0,Jump Shot,23,326
+Lebron James,45,0,5,4,1,Jump Shot,67,304
+Lebron James,45,0,6,4,1,Layup,-10,64
+Lebron James,45,0,1,1,0,Jump Shot,-198,51
+Lebron James,45,0,2,1,1,Jump Shot,7,304
+Lebron James,45,0,-8,1,0,Jump Shot,122,270
+Lebron James,45,0,-12,1,0,Jump Shot,-108,250
+Lebron James,45,0,-14,1,0,Jump Shot,-48,64
+Lebron James,45,0,-10,2,1,Special Jump Shot,48,67
+Lebron James,45,0,-2,2,1,Dunk,0,53
+Lebron James,45,0,2,3,1,Layup,26,62
+Lebron James,45,0,-3,3,0,Jump Shot,-183,225
+Lebron James,45,0,-6,3,0,Jump Shot,62,297
+Lebron James,45,0,-3,3,0,Special Jump Shot,135,171
+Lebron James,45,0,-5,4,0,Jump Shot,-210,184
+Lebron James,45,0,-5,4,0,Jump Shot,4,292
+Lebron James,47,0,-2,1,0,Layup,13,62
+Lebron James,47,0,-3,1,1,Layup,20,48
+Lebron James,47,0,-1,2,1,Dunk,9,53
+Lebron James,47,0,1,2,1,Layup,-15,53
+Lebron James,47,0,1,2,1,Layup,-27,53
+Lebron James,47,0,-3,2,0,Jump Shot,-112,190
+Lebron James,47,0,-3,2,0,Layup,20,45
+Lebron James,47,0,-2,3,1,Jump Shot,198,199
+Lebron James,47,0,-2,3,0,Special Jump Shot,-62,294
+Lebron James,47,0,-2,3,1,Special Jump Shot,-64,76
+Lebron James,47,0,5,3,1,Dunk,-4,51
+Lebron James,47,0,7,3,1,Dunk,4,51
+Lebron James,47,0,0,3,0,Special Jump Shot,-163,62
+Lebron James,47,0,-1,3,1,Jump Shot,-177,95
+Lebron James,47,0,1,4,1,Jump Shot,-226,166
+Lebron James,47,0,2,4,0,Jump Shot,78,187
+Lebron James,47,0,4,4,0,Jump Shot,-35,59
+Lebron James,47,0,4,4,0,Jump Shot,6,330
+Lebron James,47,0,5,4,1,Special Jump Shot,-177,73
+Lebron James,47,0,5,4,0,Jump Shot,119,272
+Lebron James,47,0,7,4,1,Dunk,6,47
+Lebron James,48,0,-1,1,1,Special Jump Shot,-62,81
+Lebron James,48,0,-3,1,0,Jump Shot,141,278
+Lebron James,48,0,2,1,1,Dunk,1,57
+Lebron James,48,0,7,1,1,Special Jump Shot,2,144
+Lebron James,48,0,7,1,0,Jump Shot,-24,76
+Lebron James,48,0,7,1,0,Jump Shot,-149,65
+Lebron James,48,0,8,1,1,Special Jump Shot,226,54
+Lebron James,48,0,8,2,1,Layup,-8,59
+Lebron James,48,0,14,2,0,Jump Shot,149,274
+Lebron James,48,0,6,2,0,Special Jump Shot,1,158
+Lebron James,48,0,9,2,1,Layup,-15,57
+Lebron James,48,0,10,3,1,Special Jump Shot,236,47
+Lebron James,48,0,13,3,1,Dunk,-2,57
+Lebron James,48,0,13,3,1,Layup,10,65
+Lebron James,48,0,16,3,0,Special Jump Shot,146,89
+Lebron James,48,0,7,3,0,Jump Shot,-134,286
+Lebron James,48,0,3,3,0,Layup,2,75
+Lebron James,48,0,4,4,1,Layup,-13,65
+Lebron James,48,0,8,4,1,Special Jump Shot,-46,117
+Lebron James,48,0,7,4,1,Special Jump Shot,-133,158
+Lebron James,48,0,5,4,0,Special Jump Shot,-152,86
+Lebron James,48,0,5,4,0,Jump Shot,-48,94
+Lebron James,48,0,5,4,0,Jump Shot,-60,87
+Lebron James,48,0,1,4,0,Jump Shot,-171,296
+Lebron James,48,0,2,4,1,Special Jump Shot,-149,251
+Lebron James,48,0,1,4,1,Special Jump Shot,-188,250
+Lebron James,48,0,-1,1,0,Jump Shot,143,251
+Lebron James,48,0,2,1,1,Alleyoop,-4,50
+Lebron James,48,0,-1,1,0,Special Jump Shot,-24,108
+Lebron James,48,0,1,1,1,Dunk,9,50
+Lebron James,48,0,3,1,1,Special Jump Shot,-68,87
+Lebron James,48,0,4,1,1,Jump Shot,-134,198
+Lebron James,48,0,6,1,1,Special Jump Shot,-35,91
+Lebron James,48,0,0,2,1,Layup,17,54
+Lebron James,48,0,7,2,1,Special Jump Shot,141,70
+Lebron James,48,0,9,2,1,Special Jump Shot,-95,258
+Lebron James,48,0,7,2,0,Special Jump Shot,106,76
+Lebron James,48,0,4,3,1,Jump Shot,102,240
+Lebron James,48,0,2,3,0,Special Jump Shot,37,267
+Lebron James,48,0,-4,3,1,Dunk,-2,50
+Lebron James,48,0,2,3,1,Special Jump Shot,-198,198
+Lebron James,48,0,0,3,1,Jump Shot,135,269
+Lebron James,48,0,0,4,1,Jump Shot,-123,258
+Lebron James,48,0,3,4,1,Jump Shot,92,277
+Lebron James,48,0,3,4,0,Jump Shot,95,297
+Lebron James,48,0,5,4,1,Dunk,9,53
+Lebron James,48,0,7,4,0,Jump Shot,-56,291
+Lebron James,48,0,12,4,1,Layup,9,51
+Lebron James,49,0,-2,1,1,Jump Shot,-164,149
+Lebron James,49,0,0,1,1,Dunk,-11,57
+Lebron James,49,0,2,1,1,Special Jump Shot,32,70
+Lebron James,49,0,2,1,1,Jump Shot,179,108
+Lebron James,49,0,4,1,1,Special Jump Shot,-51,48
+Lebron James,49,0,4,1,0,Jump Shot,-86,311
+Lebron James,49,0,4,1,1,Alleyoop,13,48
+Lebron James,49,0,8,1,1,Dunk,6,50
+Lebron James,49,0,17,1,1,Special Jump Shot,-16,179
+Lebron James,49,0,15,1,0,Jump Shot,-198,188
+Lebron James,49,0,10,2,1,Layup,-5,44
+Lebron James,49,0,12,2,1,Special Jump Shot,0,132
+Lebron James,49,0,7,2,0,Jump Shot,-120,269
+Lebron James,49,0,7,3,1,Special Jump Shot,147,135
+Lebron James,49,0,13,3,1,Layup,-10,50
+Lebron James,49,0,15,3,1,Dunk,4,50
+Lebron James,49,0,19,3,0,Special Jump Shot,155,106
+Lebron James,49,0,22,3,1,Special Jump Shot,-120,259
+Lebron James,49,0,22,3,0,Special Jump Shot,-179,223
+Lebron James,49,0,11,3,0,Special Jump Shot,-133,143
+Lebron James,49,0,16,4,0,Special Jump Shot,157,102
+Lebron James,49,0,16,4,1,Dunk,9,56
+Lebron James,51,1,-1,1,1,Layup,-24,62
+Lebron James,51,1,-1,1,1,Layup,7,53
+Lebron James,51,1,-4,1,1,Jump Shot,147,152
+Lebron James,51,1,-5,1,1,Jump Shot,168,231
+Lebron James,51,1,-5,1,0,Jump Shot,-81,217
+Lebron James,51,1,-7,1,1,Layup,13,54
+Lebron James,51,1,-12,2,1,Dunk,12,56
+Lebron James,51,1,-8,2,0,Jump Shot,-131,195
+Lebron James,51,1,-5,2,1,Layup,13,53
+Lebron James,51,1,-4,3,0,Layup,-19,72
+Lebron James,51,1,-6,3,1,Layup,-4,57
+Lebron James,51,1,-11,3,1,Dunk,12,57
+Lebron James,51,1,-17,3,1,Layup,6,57
+Lebron James,51,1,-20,3,1,Layup,12,54
+Lebron James,51,1,-23,3,0,Jump Shot,154,253
+Lebron James,51,1,-21,4,0,Special Jump Shot,-160,72
+Lebron James,51,1,-23,4,1,Special Jump Shot,17,138
+Lebron James,51,1,-27,4,1,Layup,23,59
+Lebron James,52,1,-2,1,1,Layup,12,53
+Lebron James,52,1,-3,1,1,Layup,9,54
+Lebron James,52,1,-2,1,0,Special Jump Shot,-134,59
+Lebron James,52,1,-4,1,1,Layup,10,53
+Lebron James,52,1,-5,1,0,Jump Shot,218,181
+Lebron James,52,1,-7,1,1,Dunk,10,51
+Lebron James,52,1,-9,3,0,Jump Shot,-108,275
+Lebron James,52,1,-9,3,1,Layup,13,57
+Lebron James,52,1,-12,3,1,Alleyoop,2,62
+Lebron James,52,1,-15,3,1,Special Jump Shot,193,61
+Lebron James,52,1,-20,3,1,Jump Shot,144,179
+Lebron James,52,1,-20,3,0,Jump Shot,-138,65
+Lebron James,53,1,0,1,1,Layup,10,53
+Lebron James,53,1,5,1,0,Hook,47,106
+Lebron James,53,1,4,1,1,Jump Shot,-187,199
+Lebron James,53,1,3,1,0,Jump Shot,70,240
+Lebron James,53,1,-1,1,1,Layup,-7,57
+Lebron James,53,1,-1,1,0,Jump Shot,47,86
+Lebron James,53,1,-3,1,1,Layup,21,67
+Lebron James,53,1,-9,2,1,Jump Shot,-193,198
+Lebron James,53,1,-11,2,1,Jump Shot,154,258
+Lebron James,53,1,-7,2,0,Special Jump Shot,12,78
+Lebron James,53,1,-9,2,1,Tip,1,59
+Lebron James,53,1,-9,2,1,Special Jump Shot,-95,201
+Lebron James,53,1,-7,2,0,Special Jump Shot,-106,92
+Lebron James,53,1,-9,3,1,Jump Shot,-86,278
+Lebron James,53,1,-10,3,1,Jump Shot,-229,98
+Lebron James,53,1,-12,3,1,Special Jump Shot,-155,62
+Lebron James,53,1,-12,3,0,Jump Shot,-187,103
+Lebron James,53,1,-15,3,1,Jump Shot,-163,234
+Lebron James,53,1,-20,3,1,Tip,2,54
+Lebron James,53,1,-18,3,0,Layup,13,57
+Lebron James,53,1,-16,3,1,Layup,17,59
+Lebron James,53,1,-19,3,1,Layup,13,61
+Lebron James,53,1,-21,3,1,Jump Shot,-187,233
+Lebron James,53,1,-22,3,1,Jump Shot,-198,259
+Lebron James,53,1,-21,4,1,Layup,17,56
+Lebron James,53,1,-23,4,1,Special Jump Shot,-160,171
+Lebron James,53,1,-20,4,0,Jump Shot,77,177
+Lebron James,53,1,-21,4,1,Layup,-7,56
+Lebron James,53,1,-18,4,0,Special Jump Shot,-89,192
+Lebron James,53,1,-17,4,1,Layup,-19,59
+Lebron James,53,1,-17,4,0,Jump Shot,-136,250
+Lebron James,53,1,-15,4,0,Jump Shot,118,280
+Lebron James,53,1,-16,4,1,Jump Shot,-82,87
+Lebron James,54,0,-5,1,1,Layup,18,56
+Lebron James,54,0,-6,1,1,Layup,1,67
+Lebron James,54,0,-6,1,1,Alleyoop,17,50
+Lebron James,54,0,-4,1,1,Dunk,3,54
+Lebron James,54,0,-4,1,0,Special Jump Shot,133,263
+Lebron James,54,0,-6,1,1,Layup,-13,65
+Lebron James,54,0,-4,2,1,Layup,21,61
+Lebron James,54,0,-1,2,1,Dunk,-2,51
+Lebron James,54,0,-5,2,0,Special Jump Shot,-60,152
+Lebron James,54,0,-2,2,1,Layup,-15,50
+Lebron James,54,0,-6,3,0,Jump Shot,212,86
+Lebron James,54,0,-11,3,0,Special Jump Shot,-21,110
+Lebron James,54,0,-12,3,1,Layup,24,59
+Lebron James,54,0,-14,3,0,Jump Shot,-193,204
+Lebron James,54,0,-7,4,0,Special Jump Shot,122,237
+Lebron James,54,0,-7,4,0,Special Jump Shot,84,89
+Lebron James,54,0,-3,4,0,Special Jump Shot,-117,307
+Lebron James,54,0,-3,1,0,Jump Shot,149,113
+Lebron James,54,0,-4,1,1,Layup,-11,54
+Lebron James,54,0,-6,1,0,Special Jump Shot,-136,127
+Lebron James,54,0,-12,1,0,Jump Shot,-136,94
+Lebron James,54,0,-12,1,0,Layup,18,56
+Lebron James,54,0,-13,1,0,Layup,-27,48
+Lebron James,54,0,-12,2,1,Special Jump Shot,1,103
+Lebron James,54,0,-12,2,1,Layup,21,53
+Lebron James,54,0,-13,2,0,Jump Shot,-139,149
+Lebron James,54,0,-14,2,0,Jump Shot,-120,163
+Lebron James,54,0,-14,2,0,Jump Shot,135,264
+Lebron James,54,0,-8,3,1,Jump Shot,-114,162
+Lebron James,54,0,-8,3,0,Jump Shot,129,269
+Lebron James,54,0,-6,3,1,Tip,-7,53
+Lebron James,54,0,-5,3,0,Jump Shot,-147,261
+Lebron James,54,0,-12,4,0,Jump Shot,-138,51
+Lebron James,54,0,-13,4,0,Jump Shot,157,116
+Lebron James,54,0,-12,4,1,Layup,6,67
+Lebron James,56,0,-2,1,0,Jump Shot,-38,251
+Lebron James,56,0,-2,1,0,Jump Shot,119,225
+Lebron James,56,0,0,1,1,Layup,24,65
+Lebron James,56,0,0,1,0,Layup,-37,64
+Lebron James,56,0,1,1,0,Jump Shot,-123,228
+Lebron James,56,0,-6,2,0,Jump Shot,-32,136
+Lebron James,56,0,-1,2,1,Alleyoop,-19,50
+Lebron James,56,0,6,3,0,Special Jump Shot,-144,70
+Lebron James,56,0,7,3,0,Jump Shot,-90,244
+Lebron James,56,0,12,3,1,Dunk,29,56
+Lebron James,56,0,11,3,1,Jump Shot,174,259
+Lebron James,56,0,10,3,1,Jump Shot,-131,76
+Lebron James,56,0,8,3,0,Layup,1,69
+Lebron James,56,0,12,4,1,Dunk,-3,49
+Lebron James,56,0,-1,4,0,Jump Shot,-204,113
+Lebron James,56,0,0,4,0,Jump Shot,193,245
+Lebron James,56,0,0,4,0,Layup,-19,53
+Lebron James,56,0,0,4,1,Layup,-27,47
+Lebron James,56,0,0,4,0,Layup,27,64
+Lebron James,56,0,-3,5,0,Jump Shot,190,225
+Lebron James,56,0,-7,5,1,Layup,-18,62
+Lebron James,56,0,-7,5,0,Jump Shot,-2,117
+Lebron James,56,1,-5,1,1,Jump Shot,234,78
+Lebron James,56,1,-9,1,1,Jump Shot,-226,91
+Lebron James,56,1,-10,1,1,Jump Shot,-237,106
+Lebron James,56,1,-4,2,1,Special Jump Shot,31,62
+Lebron James,56,1,-4,2,0,Layup,18,59
+Lebron James,56,1,-4,2,0,Layup,7,73
+Lebron James,56,1,-6,2,1,Tip,7,54
+Lebron James,56,1,-5,2,1,Layup,-10,57
+Lebron James,56,1,-7,2,1,Dunk,4,57
+Lebron James,56,1,-9,2,1,Special Jump Shot,-71,87
+Lebron James,56,1,-8,3,0,Jump Shot,168,244
+Lebron James,56,1,-6,3,0,Hook,59,87
+Lebron James,56,1,-1,3,0,Special Jump Shot,20,65
+Lebron James,56,1,-2,3,1,Tip,-2,54
+Lebron James,56,1,-9,4,1,Layup,4,53
+Lebron James,58,1,-7,1,1,Layup,18,59
+Lebron James,58,1,-5,1,0,Hook,-57,94
+Lebron James,58,1,6,2,0,Special Jump Shot,-141,75
+Lebron James,58,1,8,2,0,Jump Shot,97,209
+Lebron James,58,1,0,2,1,Dunk,7,51
+Lebron James,58,1,3,3,1,Special Jump Shot,10,173
+Lebron James,58,1,3,3,1,Jump Shot,-198,192
+Lebron James,58,1,1,3,0,Jump Shot,-199,193
+Lebron James,58,1,0,3,1,Special Jump Shot,-27,73
+Lebron James,58,1,4,3,0,Jump Shot,182,228
+Lebron James,58,1,2,3,1,Jump Shot,-175,151
+Lebron James,58,1,2,3,0,Jump Shot,-127,292
+Lebron James,59,1,-1,1,1,Dunk,1,51
+Lebron James,59,1,-3,1,1,Layup,6,59
+Lebron James,59,1,-5,1,1,Layup,9,50
+Lebron James,59,1,-9,1,1,Jump Shot,-141,147
+Lebron James,59,1,-9,1,1,Layup,6,54
+Lebron James,59,1,-12,2,0,Special Jump Shot,-65,72
+Lebron James,59,1,-14,2,1,Special Jump Shot,43,72
+Lebron James,59,1,-5,2,0,Special Jump Shot,-57,100
+Lebron James,59,1,5,2,0,Jump Shot,-103,275
+Lebron James,59,1,10,3,0,Jump Shot,-70,84
+Lebron James,59,1,13,3,0,Layup,10,65
+Lebron James,59,1,12,3,0,Jump Shot,141,264
+Lebron James,59,1,12,3,1,Layup,-13,59
+Lebron James,59,1,8,4,0,Layup,4,62
+Lebron James,59,1,8,4,1,Layup,15,64
+Lebron James,59,1,4,4,0,Jump Shot,-158,240
+Lebron James,59,1,5,4,0,Jump Shot,-224,54
+Lebron James,60,1,-4,1,1,Dunk,7,54
+Lebron James,60,1,-5,1,1,Jump Shot,-130,258
+Lebron James,60,1,-2,1,1,Dunk,6,57
+Lebron James,60,1,-2,1,0,Jump Shot,-122,152
+Lebron James,60,1,-4,1,1,Dunk,10,54
+Lebron James,60,1,-7,2,0,Jump Shot,-168,229
+Lebron James,60,1,-9,2,1,Jump Shot,155,168
+Lebron James,60,1,-9,2,0,Special Jump Shot,-108,188
+Lebron James,60,1,-7,2,1,Dunk,12,54
+Lebron James,60,1,-3,2,0,Jump Shot,73,447
+Lebron James,60,1,-1,3,1,Layup,1,65
+Lebron James,60,1,-3,3,0,Jump Shot,-157,190
+Lebron James,60,1,-3,3,0,Layup,-29,62
+Lebron James,60,1,2,3,1,Special Jump Shot,-78,50
+Lebron James,60,1,1,4,0,Special Jump Shot,29,75
+Lebron James,60,1,1,4,0,Layup,15,57
+Lebron James,60,1,-6,4,0,Jump Shot,-37,84
+Lebron James,60,0,6,1,1,Jump Shot,-224,162
+Lebron James,60,0,5,1,1,Special Jump Shot,-123,83
+Lebron James,60,0,7,1,1,Special Jump Shot,-114,92
+Lebron James,60,0,10,1,1,Jump Shot,192,214
+Lebron James,60,0,11,1,1,Jump Shot,-239,42
+Lebron James,60,0,14,1,1,Jump Shot,-166,240
+Lebron James,60,0,12,1,0,Jump Shot,147,322
+Lebron James,60,0,11,1,1,Layup,4,47
+Lebron James,60,0,7,1,1,Dunk,7,54
+Lebron James,60,0,10,1,1,Jump Shot,-142,263
+Lebron James,60,0,12,1,1,Special Jump Shot,-133,152
+Lebron James,60,0,10,2,0,Layup,4,61
+Lebron James,60,0,8,2,0,Jump Shot,67,234
+Lebron James,60,0,0,2,1,Layup,1,51
+Lebron James,60,0,1,2,0,Jump Shot,147,258
+Lebron James,60,0,2,2,1,Jump Shot,-237,44
+Lebron James,60,0,-2,3,1,Layup,7,53
+Lebron James,60,0,1,3,1,Layup,-10,61
+Lebron James,60,0,3,4,0,Layup,6,61
+Lebron James,62,1,0,1,0,Jump Shot,176,76
+Lebron James,62,1,1,1,1,Layup,2,56
+Lebron James,62,1,5,2,0,Jump Shot,86,289
+Lebron James,62,1,3,2,1,Dunk,10,56
+Lebron James,62,1,-2,2,1,Special Jump Shot,-100,75
+Lebron James,62,1,1,3,0,Jump Shot,-171,136
+Lebron James,62,1,3,3,0,Jump Shot,-111,201
+Lebron James,62,1,7,3,0,Jump Shot,-217,165
+Lebron James,62,1,5,3,1,Jump Shot,-171,59
+Lebron James,62,1,2,3,0,Layup,-10,62
+Lebron James,62,1,-2,4,1,Jump Shot,6,70
+Lebron James,62,1,0,4,0,Hook,47,86
+Lebron James,62,1,2,4,1,Layup,4,64
+Lebron James,62,1,-4,4,1,Jump Shot,-15,255
+Lebron James,62,0,2,1,1,Special Jump Shot,-141,57
+Lebron James,62,0,8,1,0,Jump Shot,-141,168
+Lebron James,62,0,-2,1,1,Alleyoop,-30,48
+Lebron James,62,0,-2,1,1,Layup,-10,73
+Lebron James,62,0,-6,2,1,Alleyoop,21,54
+Lebron James,62,0,-2,2,1,Special Jump Shot,-187,69
+Lebron James,62,0,-3,3,0,Jump Shot,144,250
+Lebron James,62,0,-2,3,1,Jump Shot,-152,253
+Lebron James,62,0,-5,3,1,Layup,-16,57
+Lebron James,62,0,-6,3,0,Jump Shot,-48,292
+Lebron James,62,0,-6,3,0,Jump Shot,-144,166
+Lebron James,62,0,-6,4,0,Jump Shot,17,177
+Lebron James,62,0,-7,4,1,Layup,-8,56
+Lebron James,62,0,-7,4,0,Jump Shot,144,111
+Lebron James,62,0,-14,4,0,Jump Shot,-73,149
+Lebron James,62,0,-11,4,1,Jump Shot,-196,204
+Lebron James,62,0,-11,4,1,Layup,-19,57
+Lebron James,63,1,0,1,0,Jump Shot,212,65
+Lebron James,63,1,0,1,0,Jump Shot,133,181
+Lebron James,63,1,1,1,1,Alleyoop,4,54
+Lebron James,63,1,1,1,0,Layup,21,53
+Lebron James,63,1,-1,1,1,Dunk,0,51
+Lebron James,63,1,-5,1,1,Special Jump Shot,-125,128
+Lebron James,63,1,-4,1,0,Jump Shot,-76,61
+Lebron James,63,1,-2,1,0,Jump Shot,13,242
+Lebron James,63,1,-2,1,0,Tip,0,57
+Lebron James,63,1,-4,1,1,Dunk,17,57
+Lebron James,63,1,-1,1,0,Jump Shot,-82,228
+Lebron James,63,1,2,1,0,Jump Shot,94,190
+Lebron James,63,1,3,2,1,Alleyoop,1,57
+Lebron James,63,1,1,2,1,Alleyoop,7,47
+Lebron James,63,1,-1,2,1,Layup,18,56
+Lebron James,63,1,-6,3,1,Tip,9,51
+Lebron James,63,1,-10,3,1,Jump Shot,-198,133
+Lebron James,63,1,-10,3,0,Jump Shot,67,291
+Lebron James,63,1,-10,3,1,Jump Shot,-64,98
+Lebron James,63,1,-10,3,1,Layup,13,57
+Lebron James,63,1,-11,3,0,Special Jump Shot,-82,100
+Lebron James,63,1,-10,4,1,Layup,-7,62
+Lebron James,63,1,-2,4,1,Layup,-4,62
+Lebron James,63,0,2,1,1,Jump Shot,-70,86
+Lebron James,63,0,1,1,0,Jump Shot,108,210
+Lebron James,63,0,-4,1,1,Dunk,18,50
+Lebron James,63,0,-9,1,0,Jump Shot,-232,36
+Lebron James,63,0,-7,1,1,Layup,18,40
+Lebron James,63,0,-9,2,0,Jump Shot,31,57
+Lebron James,63,0,-8,2,1,Layup,-8,50
+Lebron James,63,0,1,2,1,Layup,4,59
+Lebron James,63,0,-1,3,0,Jump Shot,138,122
+Lebron James,63,0,1,3,1,Layup,-11,50
+Lebron James,63,0,-3,3,1,Jump Shot,-149,89
+Lebron James,63,0,-3,3,1,Jump Shot,-153,181
+Lebron James,63,0,-3,3,1,Jump Shot,113,274
+Lebron James,63,0,5,3,0,Jump Shot,-198,199
+Lebron James,63,0,7,4,1,Special Jump Shot,-7,108
+Lebron James,63,0,5,4,0,Jump Shot,-201,239
+Lebron James,63,0,0,4,1,Special Jump Shot,-155,267
+Lebron James,63,0,3,4,0,Layup,21,57
+Lebron James,63,0,-1,4,0,Jump Shot,-191,253
+Lebron James,64,0,0,1,1,Jump Shot,94,190
+Lebron James,64,0,1,1,0,Special Jump Shot,-169,57
+Lebron James,64,0,5,1,0,Jump Shot,-19,315
+Lebron James,64,0,8,2,0,Jump Shot,116,119
+Lebron James,64,0,6,2,1,Layup,2,48
+Lebron James,64,0,11,2,0,Layup,0,56
+Lebron James,64,0,11,2,0,Layup,1,62
+Lebron James,64,0,13,2,1,Layup,-7,47
+Lebron James,64,0,15,2,1,Layup,0,42
+Lebron James,64,0,15,2,0,Jump Shot,-76,296
+Lebron James,64,0,19,3,1,Jump Shot,-60,311
+Lebron James,64,0,27,3,1,Layup,10,53
+Lebron James,64,0,32,3,1,Jump Shot,-68,220
+Lebron James,66,0,5,1,1,Dunk,1,44
+Lebron James,66,0,5,1,1,Dunk,1,39
+Lebron James,66,0,17,3,0,Jump Shot,91,291
+Lebron James,66,0,18,3,0,Layup,-2,50
+Lebron James,66,0,18,3,0,Jump Shot,-149,45
+Lebron James,66,0,16,3,1,Dunk,-5,45
+Lebron James,66,0,19,3,1,Jump Shot,230,78
+Lebron James,66,0,19,3,0,Jump Shot,86,289
+Lebron James,66,0,21,3,1,Layup,-5,50
+Lebron James,66,1,1,1,1,Alleyoop,29,57
+Lebron James,66,1,0,1,0,Jump Shot,146,259
+Lebron James,66,1,1,1,1,Jump Shot,-217,184
+Lebron James,66,1,-1,1,1,Layup,-11,72
+Lebron James,66,1,-1,1,1,Dunk,12,56
+Lebron James,66,1,-1,1,0,Jump Shot,-187,409
+Lebron James,66,1,5,2,1,Layup,7,53
+Lebron James,66,1,2,2,1,Layup,-2,50
+Lebron James,66,1,0,2,1,Dunk,9,67
+Lebron James,66,1,-10,3,1,Layup,-2,65
+Lebron James,66,1,-8,3,0,Layup,-10,69
+Lebron James,66,1,-8,3,0,Jump Shot,157,256
+Lebron James,66,1,-14,3,1,Dunk,6,54
+Lebron James,66,1,-12,3,0,Jump Shot,-229,45
+Lebron James,66,1,-8,3,1,Layup,36,62
+Lebron James,66,1,-9,3,0,Jump Shot,-138,258
+Lebron James,66,1,-5,4,0,Layup,10,65
+Lebron James,66,1,-7,4,0,Jump Shot,-106,215
+Lebron James,66,1,-11,4,1,Layup,-10,57
+Lebron James,66,1,-12,4,0,Special Jump Shot,-139,195
+Lebron James,76,1,0,1,0,Special Jump Shot,-152,67
+Lebron James,76,1,-3,1,1,Layup,-29,65
+Lebron James,76,1,-11,1,1,Layup,-5,53
+Lebron James,76,1,-14,1,1,Dunk,7,50
+Lebron James,76,1,-16,2,0,Jump Shot,-89,199
+Lebron James,76,1,-16,2,0,Jump Shot,-191,203
+Lebron James,76,1,-18,2,1,Dunk,0,53
+Lebron James,76,1,-18,2,1,Dunk,4,54
+Lebron James,76,1,-19,3,0,Jump Shot,185,218
+Lebron James,76,1,-16,3,0,Special Jump Shot,190,67
+Lebron James,76,1,-19,3,1,Special Jump Shot,125,105
+Lebron James,76,1,-20,3,1,Jump Shot,-139,283
+Lebron James,76,1,-4,1,1,Jump Shot,4,84
+Lebron James,76,1,-3,1,0,Jump Shot,138,198
+Lebron James,76,1,-4,1,1,Jump Shot,-60,289
+Lebron James,76,1,-4,1,0,Jump Shot,83,182
+Lebron James,76,1,-6,1,1,Layup,4,53
+Lebron James,76,1,-4,2,1,Special Jump Shot,40,67
+Lebron James,76,1,-10,2,0,Jump Shot,165,242
+Lebron James,76,1,0,2,0,Jump Shot,-59,95
+Lebron James,76,1,6,3,0,Jump Shot,-51,253
+Lebron James,76,1,4,3,1,Jump Shot,-201,133
+Lebron James,76,1,3,3,0,Jump Shot,-142,220
+Lebron James,76,1,7,3,1,Jump Shot,-45,89
+Lebron James,76,1,4,3,1,Special Jump Shot,-37,75
+Lebron James,76,1,4,3,0,Special Jump Shot,-2,171
+Lebron James,76,1,4,3,1,Jump Shot,4,86
+Lebron James,76,1,2,3,1,Jump Shot,-111,278
+Lebron James,76,1,2,3,0,Jump Shot,-133,259
+Lebron James,76,1,5,4,0,Jump Shot,195,138
+Lebron James,76,1,4,4,0,Jump Shot,-201,133
+Lebron James,76,1,1,4,1,Layup,-15,57
+Lebron James,76,1,-1,5,1,Layup,17,50
+Lebron James,76,1,-2,6,1,Layup,-13,56
+Lebron James,76,1,8,1,0,Jump Shot,-92,247
+Lebron James,76,1,8,1,0,Layup,-7,62
+Lebron James,76,1,6,1,1,Layup,15,65
+Lebron James,76,1,4,1,1,Layup,0,56
+Lebron James,76,1,8,1,0,Jump Shot,-172,233
+Lebron James,76,1,6,1,1,Layup,9,57
+Lebron James,76,1,1,1,1,Dunk,6,59
+Lebron James,76,1,-7,2,1,Layup,12,61
+Lebron James,76,1,-1,2,1,Dunk,0,45
+Lebron James,76,1,2,2,1,Jump Shot,201,206
+Lebron James,76,1,2,3,0,Jump Shot,-174,154
+Lebron James,76,1,1,3,0,Jump Shot,-171,218
+Lebron James,76,1,-2,3,0,Special Jump Shot,89,193
+Lebron James,76,1,-4,3,1,Dunk,4,56
+Lebron James,76,1,-8,3,1,Layup,9,56
+Lebron James,76,1,-13,4,1,Jump Shot,239,86
+Lebron James,76,1,-12,4,1,Layup,-11,65
+Lebron James,76,1,-11,4,0,Jump Shot,165,256
+Lebron James,76,1,-14,4,1,Jump Shot,140,267
+Lebron James,76,1,-7,4,0,Special Jump Shot,176,86
+Lebron James,76,1,-9,4,1,Layup,12,59
+Lebron James,76,1,-11,4,0,Jump Shot,80,289
+Lebron James,76,1,0,1,0,Jump Shot,-142,258
+Lebron James,76,1,4,1,0,Jump Shot,159,244
+Lebron James,76,1,5,1,1,Layup,15,61
+Lebron James,76,1,5,1,1,Layup,4,56
+Lebron James,76,1,4,2,1,Layup,-10,56
+Lebron James,76,1,1,2,0,Layup,-27,59
+Lebron James,76,1,5,3,1,Layup,2,64
+Lebron James,76,1,5,3,0,Layup,26,62
+Lebron James,76,1,7,3,0,Jump Shot,20,103
+Lebron James,76,1,-1,3,0,Jump Shot,-232,102
+Lebron James,76,1,-1,3,1,Special Jump Shot,-87,94
+Lebron James,76,1,-3,3,1,Layup,-8,50
+Lebron James,76,1,-1,4,1,Jump Shot,155,70
+Lebron James,76,1,-1,4,1,Dunk,6,59
+Lebron James,76,1,2,4,1,Layup,-11,51
+Lebron James,76,1,1,4,0,Dunk,-11,51
+Lebron James,76,0,-1,1,0,Special Jump Shot,-64,231
+Lebron James,76,0,1,1,1,Jump Shot,214,192
+Lebron James,76,0,6,1,1,Tip,-8,57
+Lebron James,76,0,4,1,0,Jump Shot,113,158
+Lebron James,76,0,4,1,1,Layup,-7,59
+Lebron James,76,0,4,1,1,Layup,-7,51
+Lebron James,76,0,7,2,1,Dunk,-2,51
+Lebron James,76,0,6,2,0,Special Jump Shot,124,44
+Lebron James,76,0,8,2,1,Special Jump Shot,-130,91
+Lebron James,76,0,7,2,1,Dunk,4,51
+Lebron James,76,0,4,3,1,Jump Shot,-24,316
+Lebron James,76,0,6,3,1,Jump Shot,-133,266
+Lebron James,76,0,6,3,0,Special Jump Shot,103,291
+Lebron James,76,0,8,3,1,Jump Shot,-152,195
+Lebron James,76,0,6,3,0,Jump Shot,42,299
+Lebron James,76,0,7,3,1,Dunk,0,44
+Lebron James,76,0,5,3,0,Special Jump Shot,-133,56
+Lebron James,76,0,5,3,1,Jump Shot,-169,157
+Lebron James,76,0,-2,4,0,Special Jump Shot,-130,212
+Lebron James,76,0,0,4,1,Layup,6,50
+Lebron James,76,0,-2,4,1,Jump Shot,-152,47
+Lebron James,76,0,-10,4,0,Jump Shot,138,223
+Lebron James,42,1,-4,1,1,Jump Shot,187,127
+Lebron James,42,1,-6,1,0,Jump Shot,159,247
+Lebron James,42,1,-18,1,0,Hook,-64,75
+Lebron James,42,1,-10,1,1,Layup,-5,59
+Lebron James,42,1,-5,2,0,Layup,0,61
+Lebron James,42,1,-6,2,1,Layup,17,62
+Lebron James,42,1,0,2,1,Layup,-8,54
+Lebron James,42,1,3,2,1,Jump Shot,10,86
+Lebron James,42,1,5,2,0,Jump Shot,198,206
+Lebron James,42,1,10,3,1,Special Jump Shot,179,51
+Lebron James,42,1,10,3,0,Jump Shot,-194,196
+Lebron James,42,1,12,3,1,Special Jump Shot,67,162
+Lebron James,42,1,10,3,1,Layup,20,53
+Lebron James,42,1,11,3,1,Special Jump Shot,-179,28
+Lebron James,42,1,11,3,1,Jump Shot,-169,169
+Lebron James,42,1,14,3,0,Jump Shot,-153,245
+Lebron James,42,1,21,4,0,Special Jump Shot,23,165
+Lebron James,42,1,18,4,1,Jump Shot,-153,250
+Lebron James,42,1,19,4,1,Layup,15,64
+Lebron James,42,1,19,4,0,Special Jump Shot,-98,70
+Lebron James,151,0,4,1,1,Layup,7,51
+Lebron James,151,0,-6,1,0,Jump Shot,187,125
+Lebron James,151,0,-6,1,0,Special Jump Shot,26,72
+Lebron James,151,0,-5,1,1,Jump Shot,236,114
+Lebron James,151,0,-5,1,1,Special Jump Shot,-86,89
+Lebron James,151,0,-5,1,0,Jump Shot,-40,412
+Lebron James,151,0,1,2,1,Layup,-15,54
+Lebron James,151,0,7,2,1,Special Jump Shot,160,89
+Lebron James,151,0,5,2,0,Jump Shot,-230,79
+Lebron James,151,0,0,2,0,Jump Shot,-54,285
+Lebron James,151,0,0,2,0,Special Jump Shot,-185,48
+Lebron James,151,0,-3,3,0,Jump Shot,184,162
+Lebron James,151,0,-5,3,1,Special Jump Shot,-155,48
+Lebron James,151,0,-9,3,0,Jump Shot,-177,236
+Lebron James,151,0,-7,3,1,Special Jump Shot,26,89
+Lebron James,151,0,-7,3,0,Special Jump Shot,34,92
+Lebron James,151,0,-11,4,0,Jump Shot,-54,185
+Lebron James,151,0,-9,4,1,Jump Shot,-213,207
+Lebron James,151,0,-10,4,0,Jump Shot,21,76
+Lebron James,151,0,-8,4,1,Tip,7,51
+Lebron James,151,0,-12,4,1,Jump Shot,-164,269
