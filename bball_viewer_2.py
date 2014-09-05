@@ -11,7 +11,7 @@ bball = custom_viewer('Shot Plot',
 
 @bball.plot_data
 def show_hexbin(axes, x=None, y=None, style=None, **kwargs):
-    return axes.hexbin(x, y,
+    return axes.hexbin(x.values, y.values,
                        cmap='Purples',
                        gridsize=40,
                        norm=LogNorm(),
@@ -20,7 +20,7 @@ def show_hexbin(axes, x=None, y=None, style=None, **kwargs):
 
 @bball.plot_subset
 def show_points(axes, x=None, y=None, style=None, **kwargs):
-    return axes.plot(x, y, 'o',
+    return axes.plot(x.values, y.values, 'o',
                      alpha=style.alpha,
                      mec=style.color,
                      mfc=style.color,
